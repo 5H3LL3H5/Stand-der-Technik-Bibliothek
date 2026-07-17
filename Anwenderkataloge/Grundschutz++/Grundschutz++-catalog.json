@@ -1,10 +1,10 @@
 {
   "catalog": {
-    "uuid": "a32e5b8d-8697-40d8-93d6-c571ade18ffd",
+    "uuid": "73f2d8f6-5a98-4e81-b600-b709e372e9cf",
     "metadata": {
       "title": "Anwenderkatalog Grundschutz++",
-      "last-modified": "2026-07-03T09:11:29.624341789Z",
-      "version": "2026-07-03T09:11:21.450351+00:00",
+      "last-modified": "2026-07-16T05:12:00.550662665Z",
+      "version": "2026-07-16T05:11:52.605669+00:00",
       "oscal-version": "1.1.3",
       "props": [
         {
@@ -23,7 +23,7 @@
       ],
       "links": [
         {
-          "href": "#cfe79449-f846-4d6f-a8ba-8d6a09182661",
+          "href": "#bf7510ca-fb0f-4182-af9f-b3c61db3187a",
           "rel": "reference",
           "text": "BSI IT-Grundschutz Edition 2023"
         }
@@ -24546,7 +24546,7 @@
                             "rel": "related"
                           },
                           {
-                            "href": "#TEST.3.1.7",
+                            "href": "#TEST.3.1.8",
                             "rel": "related"
                           }
                         ],
@@ -25927,6 +25927,11 @@
                     "name": "statement",
                     "props": [
                       {
+                        "name": "target_object_categories",
+                        "ns": "https://github.com/BSI-Bund/Stand-der-Technik-Bibliothek/tree/main/Dokumentation/namespaces/target_object_categories.csv",
+                        "value": "Dienstleistungen"
+                      },
+                      {
                         "name": "documentation",
                         "ns": "https://github.com/BSI-Bund/Stand-der-Technik-Bibliothek/tree/main/Dokumentation/namespaces/documentation_guidelines.csv",
                         "value": "Prozess Beschaffung"
@@ -25947,7 +25952,7 @@
                         "value": "MUSS"
                       }
                     ],
-                    "prose": "Dienstleistersteuerung MUSS ein Verfahren zur Steuerung und geordneten Beendigung von Dienstleistungsverträgen verankern."
+                    "prose": "Dienstleistersteuerung für Dienstleistungen MUSS ein Verfahren zur Steuerung und geordneten Beendigung von Dienstleistungsverträgen verankern."
                   },
                   {
                     "id": "DLS.1.1_gdn",
@@ -26007,6 +26012,11 @@
                         "name": "statement",
                         "props": [
                           {
+                            "name": "target_object_categories",
+                            "ns": "https://github.com/BSI-Bund/Stand-der-Technik-Bibliothek/tree/main/Dokumentation/namespaces/target_object_categories.csv",
+                            "value": "Dienstleistungen"
+                          },
+                          {
                             "name": "documentation",
                             "ns": "https://github.com/BSI-Bund/Stand-der-Technik-Bibliothek/tree/main/Dokumentation/namespaces/documentation_guidelines.csv",
                             "value": "IT-Betriebskonzept"
@@ -26027,7 +26037,7 @@
                             "value": "MUSS"
                           }
                         ],
-                        "prose": "Dienstleistersteuerung MUSS die Verfahren und Regelungen dokumentieren."
+                        "prose": "Dienstleistersteuerung für Dienstleistungen MUSS die Verfahren und Regelungen dokumentieren."
                       },
                       {
                         "id": "DLS.1.1.1_gdn",
@@ -26099,6 +26109,11 @@
                         "name": "statement",
                         "props": [
                           {
+                            "name": "target_object_categories",
+                            "ns": "https://github.com/BSI-Bund/Stand-der-Technik-Bibliothek/tree/main/Dokumentation/namespaces/target_object_categories.csv",
+                            "value": "Dienstleistungen"
+                          },
+                          {
                             "name": "documentation",
                             "ns": "https://github.com/BSI-Bund/Stand-der-Technik-Bibliothek/tree/main/Dokumentation/namespaces/documentation_guidelines.csv",
                             "value": "Geschäftsverteilungsplan"
@@ -26124,7 +26139,7 @@
                             "value": "MUSS"
                           }
                         ],
-                        "prose": "Dienstleistersteuerung MUSS die mit den Verfahren und Regelungen verbundenen Aufgaben {{ insert: param, dls.1.1.2-prm1 }} zuweisen."
+                        "prose": "Dienstleistersteuerung für Dienstleistungen MUSS die mit den Verfahren und Regelungen verbundenen Aufgaben {{ insert: param, dls.1.1.2-prm1 }} zuweisen."
                       },
                       {
                         "id": "DLS.1.1.2_gdn",
@@ -26184,6 +26199,11 @@
                         "name": "statement",
                         "props": [
                           {
+                            "name": "target_object_categories",
+                            "ns": "https://github.com/BSI-Bund/Stand-der-Technik-Bibliothek/tree/main/Dokumentation/namespaces/target_object_categories.csv",
+                            "value": "Dienstleistungen"
+                          },
+                          {
                             "name": "documentation",
                             "ns": "https://github.com/BSI-Bund/Stand-der-Technik-Bibliothek/tree/main/Dokumentation/namespaces/documentation_guidelines.csv",
                             "value": "IT-Betriebskonzept"
@@ -26204,7 +26224,7 @@
                             "value": "MUSS"
                           }
                         ],
-                        "prose": "Dienstleistersteuerung MUSS die zuständigen Personen oder Rollen über die Verfahren und Regelungen informieren."
+                        "prose": "Dienstleistersteuerung für Dienstleistungen MUSS die zuständigen Personen oder Rollen über die Verfahren und Regelungen informieren."
                       },
                       {
                         "id": "DLS.1.1.3_gdn",
@@ -26278,6 +26298,11 @@
                     "name": "statement",
                     "props": [
                       {
+                        "name": "target_object_categories",
+                        "ns": "https://github.com/BSI-Bund/Stand-der-Technik-Bibliothek/tree/main/Dokumentation/namespaces/target_object_categories.csv",
+                        "value": "Dienstleistungen"
+                      },
+                      {
                         "name": "documentation",
                         "ns": "https://github.com/BSI-Bund/Stand-der-Technik-Bibliothek/tree/main/Dokumentation/namespaces/documentation_guidelines.csv",
                         "value": "Übungs- und Prüfplan"
@@ -26303,7 +26328,7 @@
                         "value": "MUSS"
                       }
                     ],
-                    "prose": "Dienstleistersteuerung MUSS die Verfahren und Regelungen {{ insert: param, dls.1.2-prm1 }} und anlassbezogen auf Aktualität überprüfen."
+                    "prose": "Dienstleistersteuerung für Dienstleistungen MUSS die Verfahren und Regelungen {{ insert: param, dls.1.2-prm1 }} und anlassbezogen auf Aktualität überprüfen."
                   },
                   {
                     "id": "DLS.1.2_gdn",
@@ -27233,6 +27258,11 @@
                     "name": "statement",
                     "props": [
                       {
+                        "name": "target_object_categories",
+                        "ns": "https://github.com/BSI-Bund/Stand-der-Technik-Bibliothek/tree/main/Dokumentation/namespaces/target_object_categories.csv",
+                        "value": "Dienstleistungen"
+                      },
+                      {
                         "name": "documentation",
                         "ns": "https://github.com/BSI-Bund/Stand-der-Technik-Bibliothek/tree/main/Dokumentation/namespaces/documentation_guidelines.csv",
                         "value": "Prozess Beschaffung"
@@ -27253,7 +27283,7 @@
                         "value": "SOLLTE"
                       }
                     ],
-                    "prose": "Dienstleistersteuerung SOLLTE unzuverlässige Dienstleister oder Subdienstleister blockieren."
+                    "prose": "Dienstleistersteuerung für Dienstleistungen SOLLTE unzuverlässige Dienstleister oder Subdienstleister blockieren."
                   },
                   {
                     "id": "DLS.3.5_gdn",
@@ -28884,11 +28914,102 @@
                   {
                     "id": "TEST.3.1.2",
                     "class": "BSI-Stand-der-Technik-Kernel-G0",
+                    "title": "Verwendung externer Software",
+                    "props": [
+                      {
+                        "name": "alt-identifier",
+                        "value": "62e5ccc6-411b-45e0-8cd8-5a1d38f5ee7b"
+                      },
+                      {
+                        "name": "sec_level",
+                        "ns": "https://github.com/BSI-Bund/Stand-der-Technik-Bibliothek/tree/main/Dokumentation/namespaces/security_level.csv",
+                        "value": "normal-SdT"
+                      },
+                      {
+                        "name": "effort_level",
+                        "ns": "https://github.com/BSI-Bund/Stand-der-Technik-Bibliothek/tree/main/Dokumentation/namespaces/effort_level.csv",
+                        "value": "3"
+                      },
+                      {
+                        "name": "confidentiality",
+                        "ns": "https://github.com/BSI-Bund/Stand-der-Technik-Bibliothek/tree/main/Dokumentation/namespaces/security_targets.csv",
+                        "value": "1"
+                      },
+                      {
+                        "name": "integrity",
+                        "ns": "https://github.com/BSI-Bund/Stand-der-Technik-Bibliothek/tree/main/Dokumentation/namespaces/security_targets.csv",
+                        "value": "2"
+                      },
+                      {
+                        "name": "availability",
+                        "ns": "https://github.com/BSI-Bund/Stand-der-Technik-Bibliothek/tree/main/Dokumentation/namespaces/security_targets.csv",
+                        "value": "1"
+                      },
+                      {
+                        "name": "authenticity",
+                        "ns": "https://github.com/BSI-Bund/Stand-der-Technik-Bibliothek/tree/main/Dokumentation/namespaces/security_targets.csv",
+                        "value": "1"
+                      },
+                      {
+                        "name": "threats",
+                        "ns": "https://github.com/BSI-Bund/Stand-der-Technik-Bibliothek/tree/main/Dokumentation/namespaces/basethreats.csv",
+                        "value": "G 0.28, G 0.46, G 0.20"
+                      },
+                      {
+                        "name": "tags",
+                        "ns": "https://github.com/BSI-Bund/Stand-der-Technik-Bibliothek/tree/main/Dokumentation/namespaces/tags.csv",
+                        "value": "Lieferketten"
+                      }
+                    ],
+                    "links": [
+                      {
+                        "href": "#DEV.4.2",
+                        "rel": "related"
+                      }
+                    ],
+                    "parts": [
+                      {
+                        "id": "TEST.3.1.2_stm",
+                        "name": "statement",
+                        "props": [
+                          {
+                            "name": "documentation",
+                            "ns": "https://github.com/BSI-Bund/Stand-der-Technik-Bibliothek/tree/main/Dokumentation/namespaces/documentation_guidelines.csv",
+                            "value": "Freigabeplan"
+                          },
+                          {
+                            "name": "result",
+                            "ns": "https://github.com/BSI-Bund/Stand-der-Technik-Bibliothek/tree/main/Dokumentation/namespaces/result.csv",
+                            "value": "die Einbindung externer Softwareartefakte und -Schnittstellen aus unzuverlässigen oder unbekannten Quellen"
+                          },
+                          {
+                            "name": "action_word",
+                            "ns": "https://github.com/BSI-Bund/Stand-der-Technik-Bibliothek/tree/main/Dokumentation/namespaces/action_words.csv",
+                            "value": "untersagen"
+                          },
+                          {
+                            "name": "modal_verb",
+                            "ns": "https://github.com/BSI-Bund/Stand-der-Technik-Bibliothek/tree/main/Dokumentation/namespaces/modal_verbs.csv",
+                            "value": "SOLLTE"
+                          }
+                        ],
+                        "prose": "Änderungen und Tests SOLLTE die Einbindung externer Softwareartefakte und -Schnittstellen aus unzuverlässigen oder unbekannten Quellen untersagen."
+                      },
+                      {
+                        "id": "TEST.3.1.2_gdn",
+                        "name": "guidance",
+                        "prose": "Externe Softwareartefakte sind in diesem Kontext nicht von der Institution entwickelte, durch die Änderung in die eigene Infrastruktur eingebundene oder zur Laufzeit nachgeladene Bestandteile wie Bibliotheken, Frameworks, Container-Images, Plug-ins, Packages, Binärdateien, Skripte, Modelle, Templates oder Build-Abhängigkeiten (sog. Third-Party Components, Dependencies). Externe Softwareschnittstellen sind fremde technische Übergabe- und Kommunikationspunkte, über die eine Anwendung Funktionen oder Daten anderer Systeme nutzt, etwa Third-Party APIs, Webhooks, SDK-Schnittstellen, Datenfeeds, Authentifizierungsdienste oder Remote Services.  Eine Quelle ist unzuverlässig, wenn zukünftig mit Verstößen gegen die Schutzziele Vertraulichkeit, Verfügbarkeit oder Integrität durch sie zu rechnen ist (d.h. eine Prognose der Vertrauenswürdigkeit). Dies ist insbesondere der Fall, wenn erhebliche Verstöße gegen die Schutzziele durch sie begangen worden sind oder Anzeichen dafür vorliegen, dass bei einer Verwendung mit solchen Verstößen zu rechnen ist. Unbekannte Quellen meint hier Quellen, deren Herkunft, Integrität, Pflegezustand, Verantwortlichkeit, Vertrauenswürdigkeit oder Sicherheitsniveau nicht belastbar nachvollziehbar ist, etwa anonyme Paket-Repositories, private Download-Links, unklare Git-Repositories, veraltete Mirror-Server, nicht verifizierte Container-Registries oder Schnittstellen ohne erkennbare Betreiber-, Sicherheits- und Änderungsinformationen."
+                      }
+                    ]
+                  },
+                  {
+                    "id": "TEST.3.1.3",
+                    "class": "BSI-Stand-der-Technik-Kernel-G0",
                     "title": "Integritätstest",
                     "props": [
                       {
                         "name": "alt-identifier",
-                        "value": "f59da6fb-9fb8-4eaa-b338-1081e9094029"
+                        "value": "3c9043c9-8700-4fb4-92b1-68d9cf48602c"
                       },
                       {
                         "name": "sec_level",
@@ -28924,6 +29045,11 @@
                         "name": "threats",
                         "ns": "https://github.com/BSI-Bund/Stand-der-Technik-Bibliothek/tree/main/Dokumentation/namespaces/basethreats.csv",
                         "value": "G 0.28, G 0.20, G 0.23"
+                      },
+                      {
+                        "name": "tags",
+                        "ns": "https://github.com/BSI-Bund/Stand-der-Technik-Bibliothek/tree/main/Dokumentation/namespaces/tags.csv",
+                        "value": "Lieferketten"
                       }
                     ],
                     "links": [
@@ -28934,7 +29060,7 @@
                     ],
                     "parts": [
                       {
-                        "id": "TEST.3.1.2_stm",
+                        "id": "TEST.3.1.3_stm",
                         "name": "statement",
                         "props": [
                           {
@@ -28945,7 +29071,7 @@
                           {
                             "name": "result",
                             "ns": "https://github.com/BSI-Bund/Stand-der-Technik-Bibliothek/tree/main/Dokumentation/namespaces/result.csv",
-                            "value": "die Integrität von Installationsdateien"
+                            "value": "die Integrität von Softwareartefakten"
                           },
                           {
                             "name": "action_word",
@@ -28958,17 +29084,17 @@
                             "value": "SOLLTE"
                           }
                         ],
-                        "prose": "Änderungen und Tests SOLLTE die Integrität von Installationsdateien testen."
+                        "prose": "Änderungen und Tests SOLLTE die Integrität von Softwareartefakten testen."
                       },
                       {
-                        "id": "TEST.3.1.2_gdn",
+                        "id": "TEST.3.1.3_gdn",
                         "name": "guidance",
-                        "prose": "Dies kann z.B. durch Vergleich von Prüfsummen geschehen. Wenn möglich ist der Einsatz automatisierter Prüfungen empfehlenswert, es kann aber auch ein manueller Abgleich z.B. mit der Herstellerwebseite erfolgen."
+                        "prose": "Softwareartefakte sind in diesem Kontext Anwendungen oder ihre Bestandteile wie Bibliotheken, Frameworks, Container-Images, Plug-ins, Packages, Binärdateien, Skripte, Modelle, Templates oder Build-Abhängigkeiten (sog. Third-Party Components, Dependencies), die durch die Änderung installiert oder aktualisiert werden. Dies kann z.B. durch Vergleich von Prüfsummen geschehen. Wenn möglich ist der Einsatz automatisierter Prüfungen empfehlenswert, es kann aber auch ein manueller Abgleich z.B. mit der Herstellerwebseite erfolgen."
                       }
                     ]
                   },
                   {
-                    "id": "TEST.3.1.3",
+                    "id": "TEST.3.1.4",
                     "class": "BSI-Stand-der-Technik-Kernel-G0",
                     "title": "Testdaten",
                     "props": [
@@ -29014,7 +29140,7 @@
                     ],
                     "parts": [
                       {
-                        "id": "TEST.3.1.3_stm",
+                        "id": "TEST.3.1.4_stm",
                         "name": "statement",
                         "props": [
                           {
@@ -29041,14 +29167,14 @@
                         "prose": "Änderungen und Tests SOLLTE die Testfälle abdeckende, aber unkritische Testdaten verankern."
                       },
                       {
-                        "id": "TEST.3.1.3_gdn",
+                        "id": "TEST.3.1.4_gdn",
                         "name": "guidance",
                         "prose": "Testdaten (engl. test data) sind synthetisch erstellte oder abstrahierte Daten, die zur Durchführung von Testfällen genutzt werden. „Unkritisch“ bedeutet hier, dass die Daten keinen schützenswerten Daten wie Geschäftsgeheimnisse oder sicherheitsrelevanten Konfigurationsdetails enthalten. Testfälle (engl. test cases) sind vorab definierte Szenarien oder Abläufe, die das Verhalten einer Anwendung oder eines Systems gezielt prüfen sollen. Der Zweck der Anforderung liegt darin, sicherzustellen, dass Testaktivitäten einerseits realistische Bedingungen nachbilden, andererseits aber keine Risiken durch unbeabsichtigte Preisgabe oder Manipulation produktiver Daten entstehen. Ein Vorfall könnte beispielsweise darin bestehen, dass versehentlich echte Kundendaten in einer Testumgebung landen und durch unzureichende Sicherung Dritten zugänglich werden; durch den Einsatz unkritischer Testdaten kann dieses Risiko vermieden und dennoch die Qualität der Tests gewährleistet werden. Eine Institution kann die Anforderung praktisch umsetzen, indem sie Testdatensätze automatisiert generieren lässt, etwa durch Anonymisierung oder Pseudonymisierung produktiver Daten oder durch die Nutzung von Zufallswerten, die für Testlogik realistisch wirken. Zusätzlich kann es hilfreich sein, Regeln für Entwickler und Tester festzulegen, die dokumentieren, welche Arten von Daten zulässig sind. Auch Tools zur data masking oder synthetic data generation können verwendet werden, um komplexe Datenstrukturen ohne reale Inhalte nachzubilden."
                       }
                     ]
                   },
                   {
-                    "id": "TEST.3.1.4",
+                    "id": "TEST.3.1.5",
                     "class": "BSI-Stand-der-Technik-Kernel-G0",
                     "title": "Testumgebung",
                     "props": [
@@ -29104,7 +29230,7 @@
                     ],
                     "parts": [
                       {
-                        "id": "TEST.3.1.4_stm",
+                        "id": "TEST.3.1.5_stm",
                         "name": "statement",
                         "props": [
                           {
@@ -29131,14 +29257,14 @@
                         "prose": "Änderungen und Tests SOLLTE eine dedizierte Testumgebung installieren."
                       },
                       {
-                        "id": "TEST.3.1.4_gdn",
+                        "id": "TEST.3.1.5_gdn",
                         "name": "guidance",
                         "prose": "Eine dedizierte Testumgebung (auch Entwicklungsumgebung oder Laborumgebung genannt) ist hier eine von der Produktionsumgebung unabhängige Infrastruktur, die speziell für die Durchführung von Änderungen, Prüfungen und Qualitätssicherungsmaßnahmen vorgesehen ist. Sie dient dazu, geplante Anpassungen, Updates oder Neuentwicklungen realistisch nachzustellen, ohne die Verfügbarkeit oder Integrität der produktiven Systeme und Daten zu gefährden. Zur Produktivumgebung zählen dabei auch Betriebssysteme, verwendete Datenbanken und Netzschnittstellen. Dediziert bedeutet in diesem Zusammenhang, dass Ressourcen – beispielsweise Server, Datenbanken, Netzsegmente oder virtuelle Umgebungen – ausschließlich für Testzwecke bereitgestellt werden und nicht gleichzeitig produktiven Aufgaben dienen. Der Zweck dieser Vorgabe liegt darin, unbeabsichtigte Auswirkungen von Änderungen auf laufende Systeme zu vermeiden. Ohne eine solche Testumgebung könnte ein fehlerhaftes Update unmittelbar zu Produktionsausfällen führen oder sensible Daten unbeabsichtigt preisgeben. Eine Trennung kann dagegen sicherstellen, dass Schwachstellen oder Inkompatibilitäten frühzeitig erkannt werden, wodurch die Stabilität und Sicherheit der produktiven Systeme erhalten bleiben. Zur Umsetzung kann eine Institution verschiedene Maßnahmen einsetzen: (1) Sie kann separate physische oder virtuelle Serverlandschaften bereitstellen, die die Produktionsumgebung realitätsnah abbilden. (2) Sie kann Testdatenbanken mit anonymisierten oder synthetisch generierten Daten nutzen, um Datenschutzrisiken zu vermeiden. (3) Sie kann durch ein definiertes Deployment-Verfahren sicherstellen, dass Änderungen zunächst automatisiert in die Testumgebung ausgerollt und dort validiert werden, bevor eine Freigabe für die Produktion erfolgt."
                       }
                     ]
                   },
                   {
-                    "id": "TEST.3.1.5",
+                    "id": "TEST.3.1.6",
                     "class": "BSI-Stand-der-Technik-Kernel-G0",
                     "title": "Kontinuierliche Tests",
                     "props": [
@@ -29184,7 +29310,7 @@
                     ],
                     "parts": [
                       {
-                        "id": "TEST.3.1.5_stm",
+                        "id": "TEST.3.1.6_stm",
                         "name": "statement",
                         "props": [
                           {
@@ -29216,14 +29342,14 @@
                         "prose": "Änderungen und Tests KANN die Auswirkungen bei jeder Änderung automatisch testen."
                       },
                       {
-                        "id": "TEST.3.1.5_gdn",
+                        "id": "TEST.3.1.6_gdn",
                         "name": "guidance",
                         "prose": "„Automatisch testen“ meint den Einsatz technischer Verfahren oder Werkzeuge („continuous testing“), um bei Änderungen an Systemen oder Anwendungen unmittelbar und ohne manuelles Eingreifen Prüfungen auszuführen. Gemeint sind hier vordefinierte Testszenarien, die mit jedem Update, Patch oder Konfigurationswechsel ablaufen und systematisch überprüfen, ob die vorgesehenen Funktionen erhalten bleiben und ob unerwünschte Nebenwirkungen auftreten. Der Zweck liegt darin, dass Änderungen zwar notwendig sind, diese aber unbeabsichtigte Sicherheitslücken oder Funktionsstörungen mit sich bringen könnten – ein fehlerhaftes Update könnte beispielsweise Authentifizierungsprozesse umgehen lassen oder kritische Daten unzugänglich machen. Durch automatisierte Tests kann die Institution dagegen frühzeitig erkennen, ob eine Änderung die Vertraulichkeit, Integrität oder Verfügbarkeit gefährden könnte, und die Fehlerquote im Betrieb insgesamt senken. Umsetzungsmöglichkeiten können unterschiedlich gestaltet werden: Eine Institution kann (1) Continuous-Integration/Continuous-Delivery-Pipelines (CI/CD) einrichten, in die automatisierte Unit- und Integrationstests integriert sind, (2) produktionsnahe Szenarien in Testumgebungen abbilden und in denen Sicherheitstests automatisch mitlaufen, oder (3) Skripte einsetzen, die nach Konfigurationsänderungen direkt auf bekannte Schwachstellen oder das Vorhandensein von Sicherheitsfunktionen prüfen. Auch die Verwendung von Regressionstests, die kritische Kernfunktionen gezielt wiederholt prüfen, kann ein bewährtes Mittel sein, um sicherzustellen, dass durch eine Änderung keine unbeabsichtigten Seiteneffekte ausgelöst werden. Automatische Test ermöglichen es auch die Dokumentation der Testergebnisse automatisiert zu erstellen, sodass Verantwortliche sofort eine Übersicht über den Status erhalten."
                       }
                     ]
                   },
                   {
-                    "id": "TEST.3.1.6",
+                    "id": "TEST.3.1.7",
                     "class": "BSI-Stand-der-Technik-Kernel-G0",
                     "title": "Chaos Engineering",
                     "props": [
@@ -29269,7 +29395,7 @@
                     ],
                     "parts": [
                       {
-                        "id": "TEST.3.1.6_stm",
+                        "id": "TEST.3.1.7_stm",
                         "name": "statement",
                         "props": [
                           {
@@ -29296,14 +29422,14 @@
                         "prose": "Änderungen und Tests KANN die Resilienz bei Simulation verschiedenartiger Störungen testen."
                       },
                       {
-                        "id": "TEST.3.1.6_gdn",
+                        "id": "TEST.3.1.7_gdn",
                         "name": "guidance",
                         "prose": "Chaos Engineering kann helfen, die Zuverlässigkeit von Systemen oder Anwendungen zu erhöhen, indem es die Resilienz, also die Fähigkeit bei störenden Einflüssen den Betrieb fortzusetzen oder wiederherzustellen, durch simulierte Ausfälle oder Störungen testet. Dabei ist jedoch zu beachten, dass dabei keine geschäftskritischen, im Betrieb befindlichen Dienste gestört werden. Daher ist der Ansatz nur nach einer Analyse und Abwägung der Risiken sinnvoll. Zweckmäßig ist es dabei, geschäftskritische Systeme und Anwendungen mit hohen Auswirkungen zu priorisieren, häufige Ausfallmodi zu testen, kritische Abhängigkeiten unter Stress zu setzen, vergangene Vorfälle nachzubilden und Systemannahmen durch methodische Prozesse zu hinterfragen. Hierzu kann eine Karte der Abhängigkeiten verwendet werden oder eine Analyse kritischer Pfade. Wertvolle Experimente können Netzwerkbeeinträchtigungen, Dienstausfälle, Abhängigkeitsunterbrechungen, Ressourcenerschöpfung, Multiregionsausfälle und Zeitsynchronisationsprobleme umfassen. Geschäftskritische Dienste können dabei z.B. durch eine Begrenzung auf bestimmte Systeme, oder Durchführung solcher Tests nur außerhalb der Betriebszeiten geschützt werden."
                       }
                     ]
                   },
                   {
-                    "id": "TEST.3.1.7",
+                    "id": "TEST.3.1.8",
                     "class": "BSI-Stand-der-Technik-Kernel-G0",
                     "title": "Analyse der Zusammensetzung",
                     "props": [
@@ -29349,7 +29475,7 @@
                     ],
                     "parts": [
                       {
-                        "id": "TEST.3.1.7_stm",
+                        "id": "TEST.3.1.8_stm",
                         "name": "statement",
                         "props": [
                           {
@@ -29376,14 +29502,14 @@
                         "prose": "Änderungen und Tests KANN die Zusammensetzung der Änderungen testen."
                       },
                       {
-                        "id": "TEST.3.1.7_gdn",
+                        "id": "TEST.3.1.8_gdn",
                         "name": "guidance",
                         "prose": "Eine Analyse der Zusammensetzung (Composition Analysis) ist die systematische Untersuchung und Bewertung der Bestandteile einer Software oder eines Systems – insbesondere in Bezug auf deren Herkunft, Eigenschaften und potenzielle Schwachstellen.  Hierzu können auch (teil-)automatisierte Lösungen eingesetzt werden, z.B. können SBOMs in eine Plattform zur Verwaltung von Schwachstellen importiert werden, die eine Bereitstellung blockiert, wenn eine CVSS ≥ 9.0-Schwachstelle keine kompensierende Maßnahme hat."
                       }
                     ]
                   },
                   {
-                    "id": "TEST.3.1.8",
+                    "id": "TEST.3.1.9",
                     "class": "BSI-Stand-der-Technik-Kernel-G0",
                     "title": "Fuzzing",
                     "props": [
@@ -29434,7 +29560,7 @@
                     ],
                     "parts": [
                       {
-                        "id": "TEST.3.1.8_stm",
+                        "id": "TEST.3.1.9_stm",
                         "name": "statement",
                         "props": [
                           {
@@ -29461,14 +29587,14 @@
                         "prose": "Änderungen und Tests KANN die Stabilität gegen Fehlerzustände oder Abstürze bei der Eingabe großer Mengen an Zufallsdaten testen."
                       },
                       {
-                        "id": "TEST.3.1.8_gdn",
+                        "id": "TEST.3.1.9_gdn",
                         "name": "guidance",
                         "prose": "Fuzzing ist eine automatisierte Softwaretestmethode, mit der unerwartete Schwachstellen und Fehler in Anwendungen durch Eingabe zufälliger, unerwarteter oder ungültiger Daten aufgedeckt werden können. Der Hauptzweck besteht darin, Grenzbedingungen zu prüfen und Programmabstürze, Speicherlecks oder sicherheitskritische Fehler wie Buffer Overflows zu identifizieren, bevor Angreifer diese ausnutzen können. Kann durch spezialisierte Tools oder kontinuierliches Fuzzing in der CI/CD-Pipeline umgesetzt werden. Für einen effektiven Einsatz empfiehlt es sich, mit strukturiertem Fuzzing zu beginnen, das auf bekannten Protokollspezifikationen oder Datenformaten basiert, Fuzzing-Tests in die frühen Phasen des Entwicklungszyklus zu integrieren, alle gefundenen Fehler systematisch zu dokumentieren und zu beheben, sowie regelmäßig neue Testfälle auf Basis entdeckter Schwachstellen zu entwickeln, um die Testabdeckung kontinuierlich zu verbessern."
                       }
                     ]
                   },
                   {
-                    "id": "TEST.3.1.9",
+                    "id": "TEST.3.1.10",
                     "class": "BSI-Stand-der-Technik-Kernel-G0",
                     "title": "Lasttest",
                     "props": [
@@ -29514,7 +29640,7 @@
                     ],
                     "parts": [
                       {
-                        "id": "TEST.3.1.9_stm",
+                        "id": "TEST.3.1.10_stm",
                         "name": "statement",
                         "props": [
                           {
@@ -29541,14 +29667,14 @@
                         "prose": "Änderungen und Tests KANN die Belastbarkeit bei hoher Auslastung testen."
                       },
                       {
-                        "id": "TEST.3.1.9_gdn",
+                        "id": "TEST.3.1.10_gdn",
                         "name": "guidance",
                         "prose": "Ziel ist es, die Dimensionierung der Ressourcen zu verifizieren und Fehler zu entdecken, die nur bei höherer Last auftreten. Hierzu können z.B. eine hohe Zahl gleichzeitiger Verbindungen, große Datenmengen oder eine hohe Zahl paralleler Interaktionen genutzt werden. Die Höhe der Auslastung kann sich dabei z.B. nach der maximalen Anzahl erwarteter gleichzeitiger Nutzungen richten."
                       }
                     ]
                   },
                   {
-                    "id": "TEST.3.1.10",
+                    "id": "TEST.3.1.11",
                     "class": "BSI-Stand-der-Technik-Kernel-G0",
                     "title": "Penetrationstest bei Änderungen",
                     "props": [
@@ -29604,7 +29730,7 @@
                     ],
                     "parts": [
                       {
-                        "id": "TEST.3.1.10_stm",
+                        "id": "TEST.3.1.11_stm",
                         "name": "statement",
                         "props": [
                           {
@@ -29636,7 +29762,7 @@
                         "prose": "Änderungen und Tests KANN bekannte Schwachstellen bei kritischen Änderungen testen."
                       },
                       {
-                        "id": "TEST.3.1.10_gdn",
+                        "id": "TEST.3.1.11_gdn",
                         "name": "guidance",
                         "prose": "Bei einem Penetrationstest führen qualifizierte Sicherheitsexperten kontrollierte Angriffe auf Systeme, Anwendungen oder Netzwerke durch. Der primäre Zweck besteht darin, die tatsächliche Angriffsfläche aus der Perspektive eines potenziellen Angreifers zu bewerten, reale Ausnutzungsmöglichkeiten zu demonstrieren und die Wirksamkeit implementierter Sicherheitsmaßnahmen unter realistischen Bedingungen zu verifizieren. Praktische Umsetzungsbeispiele umfassen Black-Box-Tests ohne Vorkenntnisse des Systems, Grey-Box-Tests mit begrenztem Zugang und Wissen sowie White-Box-Tests mit vollständigem Quellcode-Zugriff, wobei Tools zur Automatisierung und Strukturierung der Tests eingesetzt werden können. Für ein effektives Pentesting empfiehlt es sich, den Testumfang klar zu definieren und zu dokumentieren, realistische Angriffsziele und Erfolgsmetriken festzulegen, ausreichend Zeit für die Behebung identifizierter Schwachstellen im Release-Plan einzuplanen, ein erfahrenes, unabhängiges Testteam einzusetzen, das nicht an der Entwicklung beteiligt war, sowie Re-Tests nach der Behebung von Schwachstellen durchzuführen, um sicherzustellen, dass alle identifizierten Risiken vor dem Produktivgang angemessen adressiert wurden."
                       }
@@ -30910,6 +31036,11 @@
                     "name": "statement",
                     "props": [
                       {
+                        "name": "target_object_categories",
+                        "ns": "https://github.com/BSI-Bund/Stand-der-Technik-Bibliothek/tree/main/Dokumentation/namespaces/target_object_categories.csv",
+                        "value": "Standorte"
+                      },
+                      {
                         "name": "documentation",
                         "ns": "https://github.com/BSI-Bund/Stand-der-Technik-Bibliothek/tree/main/Dokumentation/namespaces/documentation_guidelines.csv",
                         "value": "Prozess Gebäudemanagement"
@@ -30930,7 +31061,7 @@
                         "value": "MUSS"
                       }
                     ],
-                    "prose": "Gebäudemanagement MUSS Verfahren und Regelungen zum physischen Schutz von Standorten, an denen schützenswerte Informationen verarbeitet oder gespeichert werden, verankern."
+                    "prose": "Gebäudemanagement für Standorte MUSS Verfahren und Regelungen zum physischen Schutz von Standorten, an denen schützenswerte Informationen verarbeitet oder gespeichert werden, verankern."
                   },
                   {
                     "id": "GEB.1.1_gdn",
@@ -30990,6 +31121,11 @@
                         "name": "statement",
                         "props": [
                           {
+                            "name": "target_object_categories",
+                            "ns": "https://github.com/BSI-Bund/Stand-der-Technik-Bibliothek/tree/main/Dokumentation/namespaces/target_object_categories.csv",
+                            "value": "Standorte"
+                          },
+                          {
                             "name": "documentation",
                             "ns": "https://github.com/BSI-Bund/Stand-der-Technik-Bibliothek/tree/main/Dokumentation/namespaces/documentation_guidelines.csv",
                             "value": "IT-Betriebskonzept"
@@ -31010,7 +31146,7 @@
                             "value": "MUSS"
                           }
                         ],
-                        "prose": "Gebäudemanagement MUSS die Verfahren und Regelungen dokumentieren."
+                        "prose": "Gebäudemanagement für Standorte MUSS die Verfahren und Regelungen dokumentieren."
                       },
                       {
                         "id": "GEB.1.1.1_gdn",
@@ -31082,6 +31218,11 @@
                         "name": "statement",
                         "props": [
                           {
+                            "name": "target_object_categories",
+                            "ns": "https://github.com/BSI-Bund/Stand-der-Technik-Bibliothek/tree/main/Dokumentation/namespaces/target_object_categories.csv",
+                            "value": "Standorte"
+                          },
+                          {
                             "name": "documentation",
                             "ns": "https://github.com/BSI-Bund/Stand-der-Technik-Bibliothek/tree/main/Dokumentation/namespaces/documentation_guidelines.csv",
                             "value": "Geschäftsverteilungsplan"
@@ -31107,7 +31248,7 @@
                             "value": "MUSS"
                           }
                         ],
-                        "prose": "Gebäudemanagement MUSS die mit den Verfahren und Regelungen verbundenen Aufgaben {{ insert: param, geb.1.1.2-prm1 }} zuweisen."
+                        "prose": "Gebäudemanagement für Standorte MUSS die mit den Verfahren und Regelungen verbundenen Aufgaben {{ insert: param, geb.1.1.2-prm1 }} zuweisen."
                       },
                       {
                         "id": "GEB.1.1.2_gdn",
@@ -31167,6 +31308,11 @@
                         "name": "statement",
                         "props": [
                           {
+                            "name": "target_object_categories",
+                            "ns": "https://github.com/BSI-Bund/Stand-der-Technik-Bibliothek/tree/main/Dokumentation/namespaces/target_object_categories.csv",
+                            "value": "Standorte"
+                          },
+                          {
                             "name": "documentation",
                             "ns": "https://github.com/BSI-Bund/Stand-der-Technik-Bibliothek/tree/main/Dokumentation/namespaces/documentation_guidelines.csv",
                             "value": "IT-Betriebskonzept"
@@ -31187,7 +31333,7 @@
                             "value": "MUSS"
                           }
                         ],
-                        "prose": "Gebäudemanagement MUSS die zuständigen Personen oder Rollen über die Verfahren und Regelungen informieren."
+                        "prose": "Gebäudemanagement für Standorte MUSS die zuständigen Personen oder Rollen über die Verfahren und Regelungen informieren."
                       },
                       {
                         "id": "GEB.1.1.3_gdn",
@@ -31261,6 +31407,11 @@
                     "name": "statement",
                     "props": [
                       {
+                        "name": "target_object_categories",
+                        "ns": "https://github.com/BSI-Bund/Stand-der-Technik-Bibliothek/tree/main/Dokumentation/namespaces/target_object_categories.csv",
+                        "value": "Standorte"
+                      },
+                      {
                         "name": "documentation",
                         "ns": "https://github.com/BSI-Bund/Stand-der-Technik-Bibliothek/tree/main/Dokumentation/namespaces/documentation_guidelines.csv",
                         "value": "Übungs- und Prüfplan"
@@ -31286,7 +31437,7 @@
                         "value": "MUSS"
                       }
                     ],
-                    "prose": "Gebäudemanagement MUSS die Verfahren und Regelungen {{ insert: param, geb.1.2-prm1 }} und anlassbezogen auf Aktualität überprüfen."
+                    "prose": "Gebäudemanagement für Standorte MUSS die Verfahren und Regelungen {{ insert: param, geb.1.2-prm1 }} und anlassbezogen auf Aktualität überprüfen."
                   },
                   {
                     "id": "GEB.1.2_gdn",
@@ -47505,7 +47656,7 @@
                     ],
                     "links": [
                       {
-                        "href": "#TEST.3.1.4",
+                        "href": "#TEST.3.1.5",
                         "rel": "related"
                       }
                     ],
@@ -51247,7 +51398,7 @@
                 ],
                 "links": [
                   {
-                    "href": "#TEST.3.1.4",
+                    "href": "#TEST.3.1.5",
                     "rel": "related"
                   }
                 ],
@@ -69523,7 +69674,7 @@
                 ],
                 "links": [
                   {
-                    "href": "#TEST.3.1.10",
+                    "href": "#TEST.3.1.11",
                     "rel": "related"
                   }
                 ],
@@ -70474,6 +70625,12 @@
                         "value": "G 0.28, G 0.20"
                       }
                     ],
+                    "links": [
+                      {
+                        "href": "#DEV.4.2",
+                        "rel": "related"
+                      }
+                    ],
                     "parts": [
                       {
                         "id": "DET.5.10.1_stm",
@@ -70487,7 +70644,7 @@
                           {
                             "name": "result",
                             "ns": "https://github.com/BSI-Bund/Stand-der-Technik-Bibliothek/tree/main/Dokumentation/namespaces/result.csv",
-                            "value": "Bezugsquellen für Patches"
+                            "value": "zuverlässige Bezugsquellen für Patches"
                           },
                           {
                             "name": "action_word",
@@ -70500,7 +70657,7 @@
                             "value": "SOLLTE"
                           }
                         ],
-                        "prose": "Detektion SOLLTE Bezugsquellen für Patches autorisieren."
+                        "prose": "Detektion SOLLTE zuverlässige Bezugsquellen für Patches autorisieren."
                       },
                       {
                         "id": "DET.5.10.1_gdn",
@@ -70762,12 +70919,6 @@
                         "name": "threats",
                         "ns": "https://github.com/BSI-Bund/Stand-der-Technik-Bibliothek/tree/main/Dokumentation/namespaces/basethreats.csv",
                         "value": "G 0.28, G 0.23, G 0.39, G 0.20"
-                      }
-                    ],
-                    "links": [
-                      {
-                        "href": "#TEST.3.1.2",
-                        "rel": "related"
                       }
                     ],
                     "parts": [
@@ -90261,7 +90412,7 @@
               {
                 "id": "DEV.4.2",
                 "class": "BSI-Stand-der-Technik-Kernel-G0",
-                "title": "Bibliotheksquellen",
+                "title": "Einbindung externer Software",
                 "props": [
                   {
                     "name": "alt-identifier",
@@ -90312,6 +90463,14 @@
                   {
                     "href": "#BES.3.3",
                     "rel": "related"
+                  },
+                  {
+                    "href": "#DET.5.10.1",
+                    "rel": "related"
+                  },
+                  {
+                    "href": "#TEST.3.1.2",
+                    "rel": "related"
                   }
                 ],
                 "parts": [
@@ -90332,7 +90491,7 @@
                       {
                         "name": "result",
                         "ns": "https://github.com/BSI-Bund/Stand-der-Technik-Bibliothek/tree/main/Dokumentation/namespaces/result.csv",
-                        "value": "die Einbindung externer Softwarebibliotheken und -Schnittstellen aus unzuverlässigen oder unbekannten Quellen"
+                        "value": "die Einbindung externer Softwareartefakte und -Schnittstellen aus unzuverlässigen oder unbekannten Quellen"
                       },
                       {
                         "name": "action_word",
@@ -90345,12 +90504,12 @@
                         "value": "SOLLTE"
                       }
                     ],
-                    "prose": "Entwicklung für Anwendungen SOLLTE die Einbindung externer Softwarebibliotheken und -Schnittstellen aus unzuverlässigen oder unbekannten Quellen untersagen."
+                    "prose": "Entwicklung für Anwendungen SOLLTE die Einbindung externer Softwareartefakte und -Schnittstellen aus unzuverlässigen oder unbekannten Quellen untersagen."
                   },
                   {
                     "id": "DEV.4.2_gdn",
                     "name": "guidance",
-                    "prose": "Eine Quelle ist unzuverlässig, wenn zukünftig mit Verstößen gegen die Schutzziele Vertraulichkeit, Verfügbarkeit oder Integrität durch sie zu rechnen ist (d.h. eine Prognose der Vertrauenswürdigkeit). Dies ist insbesondere der Fall, wenn erhebliche Verstöße gegen die Schutzziele durch sie begangen worden sind oder Anzeichen dafür vorliegen, dass bei einer Verwendung mit solchen Verstößen zu rechnen ist."
+                    "prose": "Externe Softwareartefakte sind in diesem Kontext nicht von der Institution entwickelte, in die eigene Anwendung eingebundene oder zur Laufzeit nachgeladene Bestandteile wie Bibliotheken, Frameworks, Container-Images, Plug-ins, Packages, Binärdateien, Skripte, Modelle, Templates oder Build-Abhängigkeiten (sog. Third-Party Components, Dependencies) verwendet. Externe Softwareschnittstellen sind fremde technische Übergabe- und Kommunikationspunkte, über die eine Anwendung Funktionen oder Daten anderer Systeme nutzt, etwa APIs, Webhooks, SDK-Schnittstellen, Datenfeeds, Authentifizierungsdienste oder Remote Services; geläufige englische Begriffe sind Third-Party APIs, External Interfaces, Webhooks, SDKs und Remote Services.  Eine Quelle ist unzuverlässig, wenn zukünftig mit Verstößen gegen die Schutzziele Vertraulichkeit, Verfügbarkeit oder Integrität durch sie zu rechnen ist (d.h. eine Prognose der Vertrauenswürdigkeit). Dies ist insbesondere der Fall, wenn erhebliche Verstöße gegen die Schutzziele durch sie begangen worden sind oder Anzeichen dafür vorliegen, dass bei einer Verwendung mit solchen Verstößen zu rechnen ist. Unbekannte Quellen meint hier Quellen, deren Herkunft, Integrität, Pflegezustand, Verantwortlichkeit, Vertrauenswürdigkeit oder Sicherheitsniveau nicht belastbar nachvollziehbar ist, etwa anonyme Paket-Repositories, private Download-Links, unklare Git-Repositories, veraltete Mirror-Server, nicht verifizierte Container-Registries oder Schnittstellen ohne erkennbare Betreiber-, Sicherheits- und Änderungsinformationen."
                   }
                 ]
               },
@@ -90410,7 +90569,7 @@
                     "rel": "related"
                   },
                   {
-                    "href": "#TEST.3.1.7",
+                    "href": "#TEST.3.1.8",
                     "rel": "related"
                   }
                 ],
@@ -90462,7 +90621,7 @@
               {
                 "id": "DEV.4.4",
                 "class": "BSI-Stand-der-Technik-Kernel-G0",
-                "title": "Integrität externer Softwarebibliotheken",
+                "title": "Integrität externer Software",
                 "props": [
                   {
                     "name": "alt-identifier",
@@ -90527,7 +90686,7 @@
                       {
                         "name": "result",
                         "ns": "https://github.com/BSI-Bund/Stand-der-Technik-Bibliothek/tree/main/Dokumentation/namespaces/result.csv",
-                        "value": "die Integrität externer Softwarebibliotheken"
+                        "value": "die Integrität externer Softwareartefakte und -Schnittstellen"
                       },
                       {
                         "name": "result_specification",
@@ -90545,7 +90704,7 @@
                         "value": "SOLLTE"
                       }
                     ],
-                    "prose": "Entwicklung für Anwendungen SOLLTE die Integrität externer Softwarebibliotheken vor dem Release testen."
+                    "prose": "Entwicklung für Anwendungen SOLLTE die Integrität externer Softwareartefakte und -Schnittstellen vor dem Release testen."
                   },
                   {
                     "id": "DEV.4.4_gdn",
@@ -90557,7 +90716,7 @@
               {
                 "id": "DEV.4.5",
                 "class": "BSI-Stand-der-Technik-Kernel-G0",
-                "title": "Updates externer Softwarebibliotheken",
+                "title": "Updates externer Software",
                 "props": [
                   {
                     "name": "alt-identifier",
@@ -90622,7 +90781,7 @@
                       {
                         "name": "result",
                         "ns": "https://github.com/BSI-Bund/Stand-der-Technik-Bibliothek/tree/main/Dokumentation/namespaces/result.csv",
-                        "value": "externe Softwarebibliotheken auf Sicherheitsupdates"
+                        "value": "externe Softwareartefakte auf Sicherheitsupdates"
                       },
                       {
                         "name": "result_specification",
@@ -90640,12 +90799,12 @@
                         "value": "SOLLTE"
                       }
                     ],
-                    "prose": "Entwicklung für Anwendungen SOLLTE externe Softwarebibliotheken auf Sicherheitsupdates vor dem Release testen."
+                    "prose": "Entwicklung für Anwendungen SOLLTE externe Softwareartefakte auf Sicherheitsupdates vor dem Release testen."
                   },
                   {
                     "id": "DEV.4.5_gdn",
                     "name": "guidance",
-                    "prose": "Werden veraltete Softwarebibliotheken in eine veröffentlichte Software eingebunden, so können diese Sicherheitslücken oder Fehler enthalten, die in den aktuellen Versionen bereits behoben sind. Prüfen Sie daher vor einer Freigabe der Software ob eingebundene Bibliotheken aktualisiert wurden."
+                    "prose": "Werden veraltete Softwareartefakte (z.B. Bibliotheken oder Container) in eine veröffentlichte Software eingebunden, so können diese Sicherheitslücken oder Fehler enthalten, die in den aktuellen Versionen bereits behoben sind. Prüfen Sie daher vor einer Freigabe der Software, ob eingebundene Software aktualisiert wurde."
                   }
                 ]
               },
@@ -91832,7 +91991,7 @@
     "back-matter": {
       "resources": [
         {
-          "uuid": "cfe79449-f846-4d6f-a8ba-8d6a09182661",
+          "uuid": "bf7510ca-fb0f-4182-af9f-b3c61db3187a",
           "title": "BSI IT-Grundschutz Edition 2023",
           "rlinks": [
             {
