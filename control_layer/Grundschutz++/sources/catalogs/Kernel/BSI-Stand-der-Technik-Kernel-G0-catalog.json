@@ -1,11 +1,11 @@
 {
   "catalog": {
-    "uuid": "4f189450-8dbe-464a-880c-58ccc4551f60",
+    "uuid": "0f838502-cf8c-49e8-915e-29ef8f10ea1e",
     "metadata": {
       "title": "BSI Stand der Technik Kernel",
-      "published": "2026-08-13T04:09:30.374449+00:00",
-      "last-modified": "2026-08-13T04:09:30.374449+00:00",
-      "version": "2026-08-13T04:09:30.129500+00:00",
+      "published": "2026-08-20T02:53:54.823771+00:00",
+      "last-modified": "2026-08-20T02:53:54.823771+00:00",
+      "version": "2026-08-20T02:53:54.572899+00:00",
       "oscal-version": "1.1.3",
       "document-ids": [
         {
@@ -24770,7 +24770,7 @@
                   },
                   {
                     "name": "threats",
-                    "value": "G 0.18",
+                    "value": "G 0.5, G 0.6, G 0.7, G 0.18",
                     "ns": "https://github.com/BSI-Bund/Stand-der-Technik-Bibliothek/tree/main/documentation/namespaces/basethreats.csv"
                   }
                 ],
@@ -24956,7 +24956,7 @@
                   },
                   {
                     "name": "threats",
-                    "value": "G 0.18, G 0.44, G 0.16, G 0.24",
+                    "value": "G 0.18, G 0.44, G 0.16, G 0.24, G 0.34, G 0.41",
                     "ns": "https://github.com/BSI-Bund/Stand-der-Technik-Bibliothek/tree/main/documentation/namespaces/basethreats.csv"
                   }
                 ],
@@ -25322,7 +25322,7 @@
                   },
                   {
                     "name": "threats",
-                    "value": "G 0.44, G 0.16, G 0.24, G 0.19",
+                    "value": "G 0.44, G 0.16, G 0.24, G 0.19, G 0.34",
                     "ns": "https://github.com/BSI-Bund/Stand-der-Technik-Bibliothek/tree/main/documentation/namespaces/basethreats.csv"
                   }
                 ],
@@ -25497,7 +25497,7 @@
                       },
                       {
                         "name": "threats",
-                        "value": "G 0.44, G 0.16, G 0.24, G 0.19",
+                        "value": "G 0.44, G 0.16, G 0.24, G 0.19, G 0.34, G 0.41",
                         "ns": "https://github.com/BSI-Bund/Stand-der-Technik-Bibliothek/tree/main/documentation/namespaces/basethreats.csv"
                       }
                     ],
@@ -25584,7 +25584,7 @@
                   },
                   {
                     "name": "threats",
-                    "value": "G 0.44, G 0.16, G 0.24",
+                    "value": "G 0.44, G 0.16, G 0.24, G 0.34",
                     "ns": "https://github.com/BSI-Bund/Stand-der-Technik-Bibliothek/tree/main/documentation/namespaces/basethreats.csv"
                   }
                 ],
@@ -25669,7 +25669,7 @@
                   },
                   {
                     "name": "threats",
-                    "value": "G 0.44, G 0.16, G 0.24, G 0.19",
+                    "value": "G 0.44, G 0.16, G 0.24, G 0.19, G 0.34, G 0.41",
                     "ns": "https://github.com/BSI-Bund/Stand-der-Technik-Bibliothek/tree/main/documentation/namespaces/basethreats.csv"
                   }
                 ],
@@ -26150,7 +26150,7 @@
                   },
                   {
                     "name": "threats",
-                    "value": "G 0.44, G 0.16, G 0.24, G 0.19",
+                    "value": "G 0.44, G 0.16, G 0.24, G 0.19, G 0.34, G 0.41",
                     "ns": "https://github.com/BSI-Bund/Stand-der-Technik-Bibliothek/tree/main/documentation/namespaces/basethreats.csv"
                   }
                 ],
@@ -26252,7 +26252,7 @@
                   },
                   {
                     "name": "threats",
-                    "value": "G 0.44, G 0.16, G 0.24, G 0.19",
+                    "value": "G 0.44, G 0.16, G 0.24, G 0.19, G 0.41",
                     "ns": "https://github.com/BSI-Bund/Stand-der-Technik-Bibliothek/tree/main/documentation/namespaces/basethreats.csv"
                   }
                 ],
@@ -26354,7 +26354,7 @@
                   },
                   {
                     "name": "threats",
-                    "value": "G 0.44, G 0.16, G 0.24",
+                    "value": "G 0.44, G 0.16, G 0.24, G 0.34",
                     "ns": "https://github.com/BSI-Bund/Stand-der-Technik-Bibliothek/tree/main/documentation/namespaces/basethreats.csv"
                   }
                 ],
@@ -26472,7 +26472,7 @@
                   },
                   {
                     "name": "threats",
-                    "value": "G 0.44, G 0.16, G 0.24, G 0.19",
+                    "value": "G 0.44, G 0.16, G 0.24, G 0.19, G 0.34, G 0.41",
                     "ns": "https://github.com/BSI-Bund/Stand-der-Technik-Bibliothek/tree/main/documentation/namespaces/basethreats.csv"
                   }
                 ],
@@ -26744,7 +26744,7 @@
                   },
                   {
                     "name": "threats",
-                    "value": "G 0.44, G 0.16, G 0.24, G 0.19",
+                    "value": "G 0.44, G 0.16, G 0.24, G 0.19, G 0.34",
                     "ns": "https://github.com/BSI-Bund/Stand-der-Technik-Bibliothek/tree/main/documentation/namespaces/basethreats.csv"
                   }
                 ],
@@ -28153,7 +28153,7 @@
                   },
                   {
                     "name": "threats",
-                    "value": "G 0.18",
+                    "value": "G 0.1, G 0.18",
                     "ns": "https://github.com/BSI-Bund/Stand-der-Technik-Bibliothek/tree/main/documentation/namespaces/basethreats.csv"
                   },
                   {
@@ -28881,7 +28881,7 @@
                   },
                   {
                     "name": "threats",
-                    "value": "G 0.18",
+                    "value": "G 0.8, G 0.25, G 0.18",
                     "ns": "https://github.com/BSI-Bund/Stand-der-Technik-Bibliothek/tree/main/documentation/namespaces/basethreats.csv"
                   }
                 ],
@@ -29068,7 +29068,7 @@
                   },
                   {
                     "name": "threats",
-                    "value": "G 0.25",
+                    "value": "G 0.25, G 0.8",
                     "ns": "https://github.com/BSI-Bund/Stand-der-Technik-Bibliothek/tree/main/documentation/namespaces/basethreats.csv"
                   }
                 ],
@@ -29927,7 +29927,7 @@
                   },
                   {
                     "name": "threats",
-                    "value": "G 0.18, G 0.29",
+                    "value": "G 0.18, G 0.29, G 0.1",
                     "ns": "https://github.com/BSI-Bund/Stand-der-Technik-Bibliothek/tree/main/documentation/namespaces/basethreats.csv"
                   }
                 ],
@@ -30017,7 +30017,7 @@
                       },
                       {
                         "name": "threats",
-                        "value": "G 0.18",
+                        "value": "G 0.1, G 0.18",
                         "ns": "https://github.com/BSI-Bund/Stand-der-Technik-Bibliothek/tree/main/documentation/namespaces/basethreats.csv"
                       }
                     ],
@@ -30107,7 +30107,7 @@
                       },
                       {
                         "name": "threats",
-                        "value": "G 0.18",
+                        "value": "G 0.1, G 0.18",
                         "ns": "https://github.com/BSI-Bund/Stand-der-Technik-Bibliothek/tree/main/documentation/namespaces/basethreats.csv"
                       }
                     ],
@@ -30197,7 +30197,7 @@
                       },
                       {
                         "name": "threats",
-                        "value": "G 0.18",
+                        "value": "G 0.1, G 0.18",
                         "ns": "https://github.com/BSI-Bund/Stand-der-Technik-Bibliothek/tree/main/documentation/namespaces/basethreats.csv"
                       }
                     ],
@@ -30384,7 +30384,7 @@
                       },
                       {
                         "name": "threats",
-                        "value": "G 0.18",
+                        "value": "G 0.1, G 0.18",
                         "ns": "https://github.com/BSI-Bund/Stand-der-Technik-Bibliothek/tree/main/documentation/namespaces/basethreats.csv"
                       }
                     ],
@@ -30469,7 +30469,7 @@
                       },
                       {
                         "name": "threats",
-                        "value": "G 0.18",
+                        "value": "G 0.1, G 0.18",
                         "ns": "https://github.com/BSI-Bund/Stand-der-Technik-Bibliothek/tree/main/documentation/namespaces/basethreats.csv"
                       }
                     ],
@@ -30554,7 +30554,7 @@
                       },
                       {
                         "name": "threats",
-                        "value": "G 0.18",
+                        "value": "G 0.1, G 0.18",
                         "ns": "https://github.com/BSI-Bund/Stand-der-Technik-Bibliothek/tree/main/documentation/namespaces/basethreats.csv"
                       },
                       {
@@ -30669,7 +30669,7 @@
                   },
                   {
                     "name": "threats",
-                    "value": "G 0.3",
+                    "value": "G 0.3, G 0.5",
                     "ns": "https://github.com/BSI-Bund/Stand-der-Technik-Bibliothek/tree/main/documentation/namespaces/basethreats.csv"
                   }
                 ],
@@ -30849,7 +30849,7 @@
                       },
                       {
                         "name": "threats",
-                        "value": "G 0.18",
+                        "value": "G 0.3, G 0.18",
                         "ns": "https://github.com/BSI-Bund/Stand-der-Technik-Bibliothek/tree/main/documentation/namespaces/basethreats.csv"
                       }
                     ],
@@ -30936,7 +30936,7 @@
                   },
                   {
                     "name": "threats",
-                    "value": "G 0.18",
+                    "value": "G 0.1, G 0.18",
                     "ns": "https://github.com/BSI-Bund/Stand-der-Technik-Bibliothek/tree/main/documentation/namespaces/basethreats.csv"
                   }
                 ],
@@ -36976,7 +36976,7 @@
                   },
                   {
                     "name": "threats",
-                    "value": "G 0.44",
+                    "value": "G 0.44, G 0.2, G 0.3",
                     "ns": "https://github.com/BSI-Bund/Stand-der-Technik-Bibliothek/tree/main/documentation/namespaces/basethreats.csv"
                   },
                   {
@@ -37522,7 +37522,7 @@
                   },
                   {
                     "name": "threats",
-                    "value": "G 0.18",
+                    "value": "G 0.1, G 0.18",
                     "ns": "https://github.com/BSI-Bund/Stand-der-Technik-Bibliothek/tree/main/documentation/namespaces/basethreats.csv"
                   }
                 ],
@@ -37613,7 +37613,7 @@
                   },
                   {
                     "name": "threats",
-                    "value": "G 0.18",
+                    "value": "G 0.1, G 0.18",
                     "ns": "https://github.com/BSI-Bund/Stand-der-Technik-Bibliothek/tree/main/documentation/namespaces/basethreats.csv"
                   }
                 ],
@@ -38402,7 +38402,7 @@
                   },
                   {
                     "name": "threats",
-                    "value": "G 0.18",
+                    "value": "G 0.18, G 0.5",
                     "ns": "https://github.com/BSI-Bund/Stand-der-Technik-Bibliothek/tree/main/documentation/namespaces/basethreats.csv"
                   },
                   {
@@ -56069,7 +56069,7 @@
                   },
                   {
                     "name": "threats",
-                    "value": "G 0.45, G 0.39, G 0.25",
+                    "value": "G 0.45, G 0.39, G 0.25, G 0.1, G 0.3",
                     "ns": "https://github.com/BSI-Bund/Stand-der-Technik-Bibliothek/tree/main/documentation/namespaces/basethreats.csv"
                   }
                 ],
@@ -56496,7 +56496,7 @@
                   },
                   {
                     "name": "threats",
-                    "value": "G 0.45, G 0.39",
+                    "value": "G 0.45, G 0.39, G 0.1",
                     "ns": "https://github.com/BSI-Bund/Stand-der-Technik-Bibliothek/tree/main/documentation/namespaces/basethreats.csv"
                   }
                 ],
@@ -56576,7 +56576,7 @@
                   },
                   {
                     "name": "threats",
-                    "value": "G 0.39",
+                    "value": "G 0.39, G 0.5, G 0.6, G 0.7, G 0.45",
                     "ns": "https://github.com/BSI-Bund/Stand-der-Technik-Bibliothek/tree/main/documentation/namespaces/basethreats.csv"
                   }
                 ],

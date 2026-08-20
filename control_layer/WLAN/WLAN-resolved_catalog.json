@@ -1,10 +1,10 @@
 {
   "catalog": {
-    "uuid": "bf6a5a4a-8161-45fc-b969-5a5064cecf2f",
+    "uuid": "05f74e14-625d-4599-afda-a6ed3920c91b",
     "metadata": {
       "title": "Stand der Technik WLAN",
-      "last-modified": "2026-08-13T11:52:35Z",
-      "version": "2026-08-13T11:52:23.015978+00:00",
+      "last-modified": "2026-08-20T02:56:58Z",
+      "version": "2026-08-20T02:56:46.276853+00:00",
       "oscal-version": "1.1.3",
       "roles": [
         {
@@ -45,42 +45,42 @@
       ],
       "links": [
         {
-          "href": "#dae7a188-d095-4dc5-a0ca-6dcef2fdfedf",
+          "href": "#c820c541-807d-49a3-843b-3316fa40b48b",
           "rel": "reference",
           "text": "Quellkatalog Grundschutz++ Kernel G0"
         },
         {
-          "href": "#3dc5b358-b20b-45e4-a984-5d2152b429c5",
+          "href": "#1668a156-65ad-414e-a643-20837d71bc03",
           "rel": "reference",
           "text": "IEEE 802.11"
         },
         {
-          "href": "#22f925e9-5830-48a0-b74b-2021b1a461ba",
+          "href": "#5f4fb55f-0f84-4292-bd81-92cd6e6c8cfe",
           "rel": "reference",
           "text": "IEEE 802.1X"
         },
         {
-          "href": "#87f7dbda-2a2b-4762-a6da-ab18a1a2ac68",
+          "href": "#28246f42-4d48-40f3-af7a-f96236292108",
           "rel": "reference",
           "text": "EAP-TLS"
         },
         {
-          "href": "#1c3c2d90-781a-4406-827d-da4b229a4180",
+          "href": "#297a3801-674d-462c-9bc8-32f255c92b3d",
           "rel": "reference",
           "text": "WBA Wi-Fi Security Guidelines"
         },
         {
-          "href": "#74a94594-ed33-4656-9e83-d7a6f4b2dbe8",
+          "href": "#e3e37e21-4a38-4a17-a08d-fbebafee2d8b",
           "rel": "reference",
           "text": "BSI KomTK Teil 1"
         },
         {
-          "href": "#59482173-fb32-4b89-a7f0-6f18b488c507",
+          "href": "#1ee46078-612c-4b2b-9f9c-71466ca8c64e",
           "rel": "reference",
           "text": "BSI KomTK Teil 3"
         },
         {
-          "href": "#1a6a4cd2-bee4-4280-a697-88f714a1fdb3",
+          "href": "#f71f60c3-8129-4200-93a3-28890a291cac",
           "rel": "reference",
           "text": "Bundesnetzagentur Allgemeinzuteilung WLAN"
         }
@@ -6910,7 +6910,7 @@
     "back-matter": {
       "resources": [
         {
-          "uuid": "dae7a188-d095-4dc5-a0ca-6dcef2fdfedf",
+          "uuid": "c820c541-807d-49a3-843b-3316fa40b48b",
           "title": "Quellkatalog Grundschutz++ Kernel G0",
           "rlinks": [
             {
@@ -6925,7 +6925,7 @@
           ]
         },
         {
-          "uuid": "3dc5b358-b20b-45e4-a984-5d2152b429c5",
+          "uuid": "1668a156-65ad-414e-a643-20837d71bc03",
           "title": "IEEE 802.11",
           "rlinks": [
             {
@@ -6940,7 +6940,7 @@
           ]
         },
         {
-          "uuid": "22f925e9-5830-48a0-b74b-2021b1a461ba",
+          "uuid": "5f4fb55f-0f84-4292-bd81-92cd6e6c8cfe",
           "title": "IEEE 802.1X",
           "rlinks": [
             {
@@ -6955,7 +6955,7 @@
           ]
         },
         {
-          "uuid": "87f7dbda-2a2b-4762-a6da-ab18a1a2ac68",
+          "uuid": "28246f42-4d48-40f3-af7a-f96236292108",
           "title": "EAP-TLS",
           "rlinks": [
             {
@@ -6970,7 +6970,7 @@
           ]
         },
         {
-          "uuid": "1c3c2d90-781a-4406-827d-da4b229a4180",
+          "uuid": "297a3801-674d-462c-9bc8-32f255c92b3d",
           "title": "WBA Wi-Fi Security Guidelines",
           "rlinks": [
             {
@@ -6985,7 +6985,7 @@
           ]
         },
         {
-          "uuid": "74a94594-ed33-4656-9e83-d7a6f4b2dbe8",
+          "uuid": "e3e37e21-4a38-4a17-a08d-fbebafee2d8b",
           "title": "BSI KomTK Teil 1",
           "rlinks": [
             {
@@ -7000,7 +7000,7 @@
           ]
         },
         {
-          "uuid": "59482173-fb32-4b89-a7f0-6f18b488c507",
+          "uuid": "1ee46078-612c-4b2b-9f9c-71466ca8c64e",
           "title": "BSI KomTK Teil 3",
           "rlinks": [
             {
@@ -7015,7 +7015,7 @@
           ]
         },
         {
-          "uuid": "1a6a4cd2-bee4-4280-a697-88f714a1fdb3",
+          "uuid": "f71f60c3-8129-4200-93a3-28890a291cac",
           "title": "Bundesnetzagentur Allgemeinzuteilung WLAN",
           "rlinks": [
             {
