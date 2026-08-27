@@ -1,11 +1,11 @@
 {
   "catalog": {
-    "uuid": "0f838502-cf8c-49e8-915e-29ef8f10ea1e",
+    "uuid": "47e2d089-325c-48d5-b61e-85ea2aa4762e",
     "metadata": {
       "title": "BSI Stand der Technik Kernel",
-      "published": "2026-08-20T02:53:54.823771+00:00",
-      "last-modified": "2026-08-20T02:53:54.823771+00:00",
-      "version": "2026-08-20T02:53:54.572899+00:00",
+      "published": "2026-08-26T10:51:09.990343+00:00",
+      "last-modified": "2026-08-26T10:51:09.990343+00:00",
+      "version": "2026-08-26T10:51:09.813690+00:00",
       "oscal-version": "1.1.3",
       "document-ids": [
         {
@@ -48623,7 +48623,7 @@
                   {
                     "id": "BER.3.24_gdn",
                     "name": "guidance",
-                    "prose": "Wenn Nutzende ihren Primärzugang (z.B. Passwort, Smartphone mit Authentifizierungs-App) verlieren, wird eine alternative Möglichkeit zur Wiederherstellung des Zugangs benötigt. Damit dieser Alternativzugang den Schutz der Primärmethode nicht aushebelt, ist eine vergleichbare Zuverlässigkeit der Authentifizierung erforderlich. Lösungsmöglichkeiten je nach Schutzbedarf sind z.B. (1) die persönliche Vorstellung mit Ausweis, oder (2) die Verifikation über bestehende Sitzungen.oder PUK."
+                    "prose": "Wenn Nutzende ein für die reguläre Authentisierung erforderliches Authentisierungsmittel verlieren oder nicht mehr verwenden können, kann eine alternative Möglichkeit zur Wiederherstellung des Zugangs relevant sein. Hierfür kommen sowohl bereits eingerichtete alternative Authentisierungsmittel als auch besondere Wiederherstellungsverfahren in Betracht. Ein vergleichbares Vertrauensniveau der alternativen Authentisierung oder Wiederherstellung trägt dazu bei, dass der Schutz der regulären Authentisierung nicht unangemessen herabgesetzt wird. Als alternative Authentisierungsmittel kommen beispielsweise ein zusätzlich registrierter kryptografischer Authenticator, eine Smartcard oder andere geeignete Authentisierungsverfahren in Betracht. Möglichkeiten zur Wiederherstellung sind beispielsweise sicher hinterlegte Recovery-Codes bzw. PUKs, die Verifikation über ein noch verfügbares Authentisierungsmittel oder eine bestehende vertrauenswürdige Sitzung sowie eine erneute Identitätsprüfung, etwa durch persönliche Vorstellung und Prüfung eines amtlichen Ausweisdokuments."
                   }
                 ]
               },
@@ -70052,7 +70052,7 @@
                       {
                         "id": "KONF.4.1.1_gdn",
                         "name": "guidance",
-                        "prose": "„Weiterleitung mehrfach verwendbarer Anmeldeinformationen“ (auch als Credential Forwarding oder Credential Delegation bekannt) meint technische Mechanismen, bei denen die Anmeldeinformationen eines Zugangskontos (z.B. Kennworthashes oder Kerberos-Tickets) an ein zweites System weitergereicht werden, um sich dort ebenfalls zu authentifizieren, ohne die Daten erneut eingeben zu müssen. Ziel der Deaktivierung ist hier die Unterbrechung von Angriffsketten, die auf dem Diebstahl von Zugangsdaten basieren. Ein Angreifer könnte sonst nach der Kompromittierung eines weniger kritischen Systems, wie einem Webserver, die dorthin weitergeleiteten Anmeldeinformationen eines Administrators aus dem Arbeitsspeicher auslesen und sich mit diesen Rechten unbemerkt im gesamten Netzwerk weiter ausbreiten (Laterale Bewegung). Das gezielte Deaktivieren des Credential Forwarding kann die Angriffsfläche erheblich reduzieren und solche „Pass-the-Hash“- oder „Pass-the-Ticket“-Angriffe effektiv eindämmen, da Anmeldeinformationen mit hohen Privilegien gar nicht erst auf unsichere Systeme gelangen. Stattdessen kann die Authentifizierung ausschließlich temporäre, eingeschränkte Tickets oder Tokens verwenden. Hierzu gehören z.B. Windows Remote Credential Guard oder RestrictedAdmin, sowie unter Linux SSH-Agent Forwarding oder GSSAPI. Eine Token-basierte Authentifizierung ist eine Strategie zur Verbesserung der Informationssicherheit. Nachdem Benutzende ihre Anmeldedaten eingegeben haben, werden diese überprüft und ein einmaliges verschlüsseltes Token generiert, mit dem sie anschließend auf Online-Ressourcen zugreifen können, ohne bei jeder Anfrage ihren Benutzernamen und ihr Passwort eingeben zu müssen. Bei SSH-Verbindungen kann die unsichere „Agent Forwarding“-Funktion serverseitig in der Konfigurationsdatei deaktiviert werden."
+                        "prose": "„Weiterleitung mehrfach verwendbarer Anmeldeinformationen“ (auch als Credential Forwarding oder Credential Delegation bezeichnet) meint Mechanismen, bei denen Anmeldeinformationen oder daraus abgeleitete Authentisierungsinformationen an ein weiteres System übertragen oder diesem zur weiteren Authentisierung zur Verfügung gestellt werden. Dadurch können auf dem Zielsystem Informationen oder Authentisierungsfähigkeiten verfügbar werden, die bei einer Kompromittierung für weitere Zugriffe missbraucht werden könnten. Die Einschränkung der Weiterleitung kann das Risiko reduzieren, dass Angreifende nach der Kompromittierung eines Systems Anmeldeinformationen oder daraus abgeleitete Authentisierungsinformationen für laterale Bewegungen verwenden. Insbesondere bei privilegierten Zugangskonten kann dadurch vermieden werden, dass wiederverwendbare Anmeldeinformationen auf weniger vertrauenswürdigen Systemen verfügbar werden. Für Remotezugriffe können Verfahren eingesetzt werden, bei denen die Anmeldeinformationen nicht an das Zielsystem übertragen werden. Beispiele unter Windows sind Remote Credential Guard oder Restricted Admin für Remotedesktopverbindungen. Bei SSH-Verbindungen kann auf die Weiterleitung des lokalen SSH-Authentisierungsagenten verzichtet werden. Wird Agent Forwarding nicht benötigt, kann dessen Verwendung client- und serverseitig eingeschränkt werden."
                       }
                     ]
                   }
@@ -71248,7 +71248,7 @@
                       {
                         "id": "KONF.6.1.2_gdn",
                         "name": "guidance",
-                        "prose": "Die Isolation von Anwendungen (auch Kapselung oder Application Sandboxing genannt) dient dazu, die Angriffsfläche eines Systems zu reduzieren und die Vertraulichkeit, Integrität sowie Verfügbarkeit kritischer Komponenten besser zu schützen. Durch eine klare Trennung der Anwendungs- und Systemprozesse und von deren Ressourcenzugriffen (Netzwerk, Datei‑ oder Geräte‑I/O) kann eine kompromittierte Applikation nicht unbegrenzt auf weitere Systemressourcen zugreifen, sondern ist auf genau definierte Schnittstellen beschränkt. Bestimmte Anwendungen meint hier, dass konkret festgelegt wird, welche Anwendungen konkret isoliert ausgeführt werden. Dies ermöglicht es, Fehlfunktionen oder Angriffe einzudämmen, Schadsoftware leichter zu erkennen und Verantwortlichkeiten einzelner Module transparent zu halten. Dies kann z.B. durch Containerisierung oder eine Microservice-Architektur, in der jede Komponente nur über REST- oder Message-Queue-Schnittstellen kommuniziert umgesetzt werden. Auch klassische Virtualisierung (Gastsysteme mit Hypervisor) oder Betriebssystemfunktionen wie SELinux/AppArmor‑Profile und chroot‑Jails zählen dazu, weil sie Applikationen auf genau festgelegte Ressourcen beschränken. Im Kontext der Containerisierung empfiehlt es sich ebenfalls eine feste Zuordnung von Containern zu Container-Hosts vorzunehmen."
+                        "prose": "Die Isolation von Anwendungen (auch Application Sandboxing oder Application Confinement genannt) kann die Auswirkungen von Fehlfunktionen oder einer Kompromittierung auf andere Anwendungen und Systemressourcen begrenzen. Hierzu werden Zugriffe einer Anwendung auf beispielsweise Prozesse, Dateisystembereiche, Netzwerkressourcen oder Geräte auf die für ihren Betrieb vorgesehenen Ressourcen und Schnittstellen beschränkt. „Bestimmte Anwendungen“ bezeichnet die Anwendungen, für die aufgrund ihres Einsatzzwecks oder der damit verbundenen Risiken eine isolierte Ausführung vorgesehen ist. Die Isolation kann mit unterschiedlichen technischen Mechanismen umgesetzt werden. Hierzu zählen beispielsweise Betriebssystemfunktionen zur Zugriffsbeschränkung wie SELinux- oder AppArmor-Profile, containerbasierte Isolation oder die Ausführung in virtuellen Maschinen. Die verschiedenen Verfahren bieten unterschiedliche Isolationsstärken. Container teilen sich typischerweise den Kernel des Hostsystems, während virtuelle Maschinen zusätzlich über ein eigenes Gastbetriebssystem und einen eigenen Kernel gegenüber dem Hostsystem abgegrenzt sind."
                       }
                     ]
                   },
@@ -74209,7 +74209,7 @@
                       },
                       {
                         "name": "result",
-                        "value": "Code-Signierung im Betriebssystemkern",
+                        "value": "die Signaturprüfung für nachladbaren Code im Kernelmodus",
                         "ns": "https://github.com/BSI-Bund/Stand-der-Technik-Bibliothek/tree/main/documentation/namespaces/result.csv"
                       },
                       {
@@ -74223,12 +74223,12 @@
                         "ns": "https://github.com/BSI-Bund/Stand-der-Technik-Bibliothek/tree/main/documentation/namespaces/modal_verbs.csv"
                       }
                     ],
-                    "prose": "Konfiguration für IT-Systeme SOLLTE Code-Signierung im Betriebssystemkern aktivieren."
+                    "prose": "Konfiguration für IT-Systeme SOLLTE die Signaturprüfung für nachladbaren Code im Kernelmodus aktivieren."
                   },
                   {
                     "id": "KONF.7.14_gdn",
                     "name": "guidance",
-                    "prose": "Laufende Kernprozesse des Systems können geschützt werden, indem nur signierter Code hierauf zugreifen darf. Beispiele sind unter Windows der der PPL-Schutz (Protected Process Light) des Local Credential Store (LSA-Schutz) oder unter Linux mit SELinux oder dem Secure Computing Mode."
+                    "prose": "Nachladbarer Code im Kernelmodus verfügt typischerweise über weitreichende Berechtigungen und kann bei einer Kompromittierung erhebliche Auswirkungen auf das gesamte IT-System haben. Eine Signaturprüfung kann dazu beitragen, das Laden von nicht oder nicht vertrauenswürdig signiertem Code im Kernelmodus zu verhindern. Beispiele sind die erzwungene Signaturprüfung von Kernelmodulen unter Linux oder die Signaturprüfung von Kernelmodus-Treibern unter Windows. Die Schutzwirkung der Signaturprüfung hängt von den verwendeten Vertrauensankern ab. Hierbei kann insbesondere berücksichtigt werden, welche Signaturschlüssel beziehungsweise Herausgeber als vertrauenswürdig eingestuft werden. Eine gültige Signatur allein erlaubt keine Aussage über die Sicherheit oder Qualität des signierten Codes."
                   }
                 ]
               },
