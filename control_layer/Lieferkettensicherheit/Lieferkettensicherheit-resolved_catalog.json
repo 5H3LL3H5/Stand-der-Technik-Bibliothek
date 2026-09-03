@@ -1,10 +1,10 @@
 {
   "catalog": {
-    "uuid": "0c0b98a6-4e8b-4d49-b664-beff4c54793a",
+    "uuid": "bdf6c5e5-d622-43e1-ad74-64d2ff1732cd",
     "metadata": {
       "title": "Supply Chain Security",
-      "last-modified": "2026-08-26T10:53:10.753184718Z",
-      "version": "2026-08-26T10:53:07.405803+00:00",
+      "last-modified": "2026-09-03T07:06:40.907046298Z",
+      "version": "2026-09-03T07:06:35.997731+00:00",
       "oscal-version": "1.1.3",
       "document-ids": [
         {

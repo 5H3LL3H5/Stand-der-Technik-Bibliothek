@@ -1,11 +1,11 @@
 {
   "catalog": {
-    "uuid": "47e2d089-325c-48d5-b61e-85ea2aa4762e",
+    "uuid": "f391981a-d14a-4be0-a9f9-b0fa3dd0f555",
     "metadata": {
       "title": "BSI Stand der Technik Kernel",
-      "published": "2026-08-26T10:51:09.990343+00:00",
-      "last-modified": "2026-08-26T10:51:09.990343+00:00",
-      "version": "2026-08-26T10:51:09.813690+00:00",
+      "published": "2026-09-03T07:03:40.588750+00:00",
+      "last-modified": "2026-09-03T07:03:40.588750+00:00",
+      "version": "2026-09-03T07:03:40.312658+00:00",
       "oscal-version": "1.1.3",
       "document-ids": [
         {

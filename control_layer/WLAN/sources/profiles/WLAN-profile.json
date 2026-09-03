@@ -1,10 +1,10 @@
 {
   "profile": {
-    "uuid": "f7da6ce8-7472-440f-83e9-f8215af520e2",
+    "uuid": "262cb4bc-0711-4861-908a-69704d8d6899",
     "metadata": {
       "title": "Stand der Technik WLAN",
-      "last-modified": "2026-08-26T10:54:17.599462+00:00",
-      "version": "2026-08-26T10:54:17.599476+00:00",
+      "last-modified": "2026-09-03T07:08:13.995468+00:00",
+      "version": "2026-09-03T07:08:13.995486+00:00",
       "oscal-version": "1.1.3",
       "roles": [
         {
@@ -39,52 +39,52 @@
       ],
       "links": [
         {
-          "href": "#ca957056-0133-43ea-9abc-fe5fb8168ed9",
+          "href": "#f6dfb45b-bbd9-4fe3-9021-31338c838e57",
           "rel": "reference",
           "text": "BSI Stand der Technik Kernel, Fassung 2026-08-13"
         },
         {
-          "href": "#d24853d2-7c09-42eb-bd7b-e019fe8d4ed5",
+          "href": "#65fcddb6-bf9a-4e96-8601-cc36e6d962f9",
           "rel": "reference",
           "text": "IEEE 802.11-2024"
         },
         {
-          "href": "#2dffdbe3-f9d5-4742-b87c-1a4cf254d746",
+          "href": "#9d2ef76d-d5d8-43c6-9c63-2b1dffdec015",
           "rel": "reference",
           "text": "IEEE 802.1X-2020"
         },
         {
-          "href": "#0ad7b57c-e42e-44a3-8415-08de312dcd19",
+          "href": "#3a111e21-ee25-431e-9b2f-c3c56be13fd9",
           "rel": "reference",
           "text": "RFC 9190 EAP-TLS 1.3"
         },
         {
-          "href": "#83cccbe8-8c02-4467-9481-4d060bf5735a",
+          "href": "#227384ba-ff59-47bf-a781-4a8e3d9253c6",
           "rel": "reference",
           "text": "BSI KomTK Teil 1, 2025"
         },
         {
-          "href": "#a7809ebf-2abd-49f9-b6f2-0d234d3b8c91",
+          "href": "#00c61fa3-bd5a-47f2-9c16-79275db65200",
           "rel": "reference",
           "text": "BSI KomTK Teil 3 Beschaffungsleitfaden, 2025"
         },
         {
-          "href": "#5c650e28-ada9-46d7-8c07-7d1b9dc494f0",
+          "href": "#5bede032-5d47-40e9-8a26-ad1d0530a8cf",
           "rel": "reference",
           "text": "WBA Wi-Fi Security Guidelines, April 2026"
         },
         {
-          "href": "#22fa7fab-f474-4b28-965a-5ffce9c21f05",
+          "href": "#d3802b88-30a6-4fa9-8e00-f7d438f03b15",
           "rel": "reference",
           "text": "Bundesnetzagentur Allgemeinzuteilung 6-GHz-WLAN, Verfügung 76 aus 2025"
         },
         {
-          "href": "#cb4c333a-f94f-44a7-b02c-0d2858a75c6a",
+          "href": "#df49de65-3c6a-43ca-a95b-fbc982edd014",
           "rel": "reference",
           "text": "BSI TR-02102-1, Version 2026-01"
         },
         {
-          "href": "#ac462dd1-ce9c-4273-821e-5caa1e5c4531",
+          "href": "#aa7f17f8-ebee-43eb-a33e-ded73a2a99b9",
           "rel": "reference",
           "text": "CISA und USCG Joint Advisory AA25-212A, 2025"
         }
@@ -92,7 +92,7 @@
     },
     "imports": [
       {
-        "href": "#f472e97c-8b0c-415c-b5ee-04ac02d19d13",
+        "href": "#3945e483-9425-480d-a774-14d164e15768",
         "include-controls": [
           {
             "with-ids": [
@@ -355,12 +355,12 @@
               "position": "ending",
               "links": [
                 {
-                  "href": "#ca957056-0133-43ea-9abc-fe5fb8168ed9",
+                  "href": "#f6dfb45b-bbd9-4fe3-9021-31338c838e57",
                   "text": "BSI Stand der Technik Kernel, Fassung 2026-08-13",
                   "rel": "reference"
                 },
                 {
-                  "href": "#83cccbe8-8c02-4467-9481-4d060bf5735a",
+                  "href": "#227384ba-ff59-47bf-a781-4a8e3d9253c6",
                   "text": "BSI KomTK Teil 1, 2025",
                   "rel": "reference"
                 }
@@ -426,12 +426,12 @@
               "position": "ending",
               "links": [
                 {
-                  "href": "#ca957056-0133-43ea-9abc-fe5fb8168ed9",
+                  "href": "#f6dfb45b-bbd9-4fe3-9021-31338c838e57",
                   "text": "BSI Stand der Technik Kernel, Fassung 2026-08-13",
                   "rel": "reference"
                 },
                 {
-                  "href": "#83cccbe8-8c02-4467-9481-4d060bf5735a",
+                  "href": "#227384ba-ff59-47bf-a781-4a8e3d9253c6",
                   "text": "BSI KomTK Teil 1, 2025",
                   "rel": "reference"
                 }
@@ -497,12 +497,12 @@
               "position": "ending",
               "links": [
                 {
-                  "href": "#ca957056-0133-43ea-9abc-fe5fb8168ed9",
+                  "href": "#f6dfb45b-bbd9-4fe3-9021-31338c838e57",
                   "text": "BSI Stand der Technik Kernel, Fassung 2026-08-13",
                   "rel": "reference"
                 },
                 {
-                  "href": "#83cccbe8-8c02-4467-9481-4d060bf5735a",
+                  "href": "#227384ba-ff59-47bf-a781-4a8e3d9253c6",
                   "text": "BSI KomTK Teil 1, 2025",
                   "rel": "reference"
                 }
@@ -568,12 +568,12 @@
               "position": "ending",
               "links": [
                 {
-                  "href": "#ca957056-0133-43ea-9abc-fe5fb8168ed9",
+                  "href": "#f6dfb45b-bbd9-4fe3-9021-31338c838e57",
                   "text": "BSI Stand der Technik Kernel, Fassung 2026-08-13",
                   "rel": "reference"
                 },
                 {
-                  "href": "#83cccbe8-8c02-4467-9481-4d060bf5735a",
+                  "href": "#227384ba-ff59-47bf-a781-4a8e3d9253c6",
                   "text": "BSI KomTK Teil 1, 2025",
                   "rel": "reference"
                 }
@@ -639,12 +639,12 @@
               "position": "ending",
               "links": [
                 {
-                  "href": "#ca957056-0133-43ea-9abc-fe5fb8168ed9",
+                  "href": "#f6dfb45b-bbd9-4fe3-9021-31338c838e57",
                   "text": "BSI Stand der Technik Kernel, Fassung 2026-08-13",
                   "rel": "reference"
                 },
                 {
-                  "href": "#83cccbe8-8c02-4467-9481-4d060bf5735a",
+                  "href": "#227384ba-ff59-47bf-a781-4a8e3d9253c6",
                   "text": "BSI KomTK Teil 1, 2025",
                   "rel": "reference"
                 }
@@ -710,12 +710,12 @@
               "position": "ending",
               "links": [
                 {
-                  "href": "#ca957056-0133-43ea-9abc-fe5fb8168ed9",
+                  "href": "#f6dfb45b-bbd9-4fe3-9021-31338c838e57",
                   "text": "BSI Stand der Technik Kernel, Fassung 2026-08-13",
                   "rel": "reference"
                 },
                 {
-                  "href": "#83cccbe8-8c02-4467-9481-4d060bf5735a",
+                  "href": "#227384ba-ff59-47bf-a781-4a8e3d9253c6",
                   "text": "BSI KomTK Teil 1, 2025",
                   "rel": "reference"
                 }
@@ -781,12 +781,12 @@
               "position": "ending",
               "links": [
                 {
-                  "href": "#ca957056-0133-43ea-9abc-fe5fb8168ed9",
+                  "href": "#f6dfb45b-bbd9-4fe3-9021-31338c838e57",
                   "text": "BSI Stand der Technik Kernel, Fassung 2026-08-13",
                   "rel": "reference"
                 },
                 {
-                  "href": "#83cccbe8-8c02-4467-9481-4d060bf5735a",
+                  "href": "#227384ba-ff59-47bf-a781-4a8e3d9253c6",
                   "text": "BSI KomTK Teil 1, 2025",
                   "rel": "reference"
                 }
@@ -852,12 +852,12 @@
               "position": "ending",
               "links": [
                 {
-                  "href": "#ca957056-0133-43ea-9abc-fe5fb8168ed9",
+                  "href": "#f6dfb45b-bbd9-4fe3-9021-31338c838e57",
                   "text": "BSI Stand der Technik Kernel, Fassung 2026-08-13",
                   "rel": "reference"
                 },
                 {
-                  "href": "#83cccbe8-8c02-4467-9481-4d060bf5735a",
+                  "href": "#227384ba-ff59-47bf-a781-4a8e3d9253c6",
                   "text": "BSI KomTK Teil 1, 2025",
                   "rel": "reference"
                 }
@@ -923,12 +923,12 @@
               "position": "ending",
               "links": [
                 {
-                  "href": "#ca957056-0133-43ea-9abc-fe5fb8168ed9",
+                  "href": "#f6dfb45b-bbd9-4fe3-9021-31338c838e57",
                   "text": "BSI Stand der Technik Kernel, Fassung 2026-08-13",
                   "rel": "reference"
                 },
                 {
-                  "href": "#83cccbe8-8c02-4467-9481-4d060bf5735a",
+                  "href": "#227384ba-ff59-47bf-a781-4a8e3d9253c6",
                   "text": "BSI KomTK Teil 1, 2025",
                   "rel": "reference"
                 }
@@ -994,12 +994,12 @@
               "position": "ending",
               "links": [
                 {
-                  "href": "#ca957056-0133-43ea-9abc-fe5fb8168ed9",
+                  "href": "#f6dfb45b-bbd9-4fe3-9021-31338c838e57",
                   "text": "BSI Stand der Technik Kernel, Fassung 2026-08-13",
                   "rel": "reference"
                 },
                 {
-                  "href": "#83cccbe8-8c02-4467-9481-4d060bf5735a",
+                  "href": "#227384ba-ff59-47bf-a781-4a8e3d9253c6",
                   "text": "BSI KomTK Teil 1, 2025",
                   "rel": "reference"
                 }
@@ -1065,12 +1065,12 @@
               "position": "ending",
               "links": [
                 {
-                  "href": "#ca957056-0133-43ea-9abc-fe5fb8168ed9",
+                  "href": "#f6dfb45b-bbd9-4fe3-9021-31338c838e57",
                   "text": "BSI Stand der Technik Kernel, Fassung 2026-08-13",
                   "rel": "reference"
                 },
                 {
-                  "href": "#83cccbe8-8c02-4467-9481-4d060bf5735a",
+                  "href": "#227384ba-ff59-47bf-a781-4a8e3d9253c6",
                   "text": "BSI KomTK Teil 1, 2025",
                   "rel": "reference"
                 }
@@ -1136,12 +1136,12 @@
               "position": "ending",
               "links": [
                 {
-                  "href": "#ca957056-0133-43ea-9abc-fe5fb8168ed9",
+                  "href": "#f6dfb45b-bbd9-4fe3-9021-31338c838e57",
                   "text": "BSI Stand der Technik Kernel, Fassung 2026-08-13",
                   "rel": "reference"
                 },
                 {
-                  "href": "#83cccbe8-8c02-4467-9481-4d060bf5735a",
+                  "href": "#227384ba-ff59-47bf-a781-4a8e3d9253c6",
                   "text": "BSI KomTK Teil 1, 2025",
                   "rel": "reference"
                 }
@@ -1207,12 +1207,12 @@
               "position": "ending",
               "links": [
                 {
-                  "href": "#ca957056-0133-43ea-9abc-fe5fb8168ed9",
+                  "href": "#f6dfb45b-bbd9-4fe3-9021-31338c838e57",
                   "text": "BSI Stand der Technik Kernel, Fassung 2026-08-13",
                   "rel": "reference"
                 },
                 {
-                  "href": "#83cccbe8-8c02-4467-9481-4d060bf5735a",
+                  "href": "#227384ba-ff59-47bf-a781-4a8e3d9253c6",
                   "text": "BSI KomTK Teil 1, 2025",
                   "rel": "reference"
                 }
@@ -1278,12 +1278,12 @@
               "position": "ending",
               "links": [
                 {
-                  "href": "#ca957056-0133-43ea-9abc-fe5fb8168ed9",
+                  "href": "#f6dfb45b-bbd9-4fe3-9021-31338c838e57",
                   "text": "BSI Stand der Technik Kernel, Fassung 2026-08-13",
                   "rel": "reference"
                 },
                 {
-                  "href": "#83cccbe8-8c02-4467-9481-4d060bf5735a",
+                  "href": "#227384ba-ff59-47bf-a781-4a8e3d9253c6",
                   "text": "BSI KomTK Teil 1, 2025",
                   "rel": "reference"
                 }
@@ -1349,12 +1349,12 @@
               "position": "ending",
               "links": [
                 {
-                  "href": "#ca957056-0133-43ea-9abc-fe5fb8168ed9",
+                  "href": "#f6dfb45b-bbd9-4fe3-9021-31338c838e57",
                   "text": "BSI Stand der Technik Kernel, Fassung 2026-08-13",
                   "rel": "reference"
                 },
                 {
-                  "href": "#83cccbe8-8c02-4467-9481-4d060bf5735a",
+                  "href": "#227384ba-ff59-47bf-a781-4a8e3d9253c6",
                   "text": "BSI KomTK Teil 1, 2025",
                   "rel": "reference"
                 }
@@ -1420,12 +1420,12 @@
               "position": "ending",
               "links": [
                 {
-                  "href": "#ca957056-0133-43ea-9abc-fe5fb8168ed9",
+                  "href": "#f6dfb45b-bbd9-4fe3-9021-31338c838e57",
                   "text": "BSI Stand der Technik Kernel, Fassung 2026-08-13",
                   "rel": "reference"
                 },
                 {
-                  "href": "#83cccbe8-8c02-4467-9481-4d060bf5735a",
+                  "href": "#227384ba-ff59-47bf-a781-4a8e3d9253c6",
                   "text": "BSI KomTK Teil 1, 2025",
                   "rel": "reference"
                 }
@@ -1491,27 +1491,27 @@
               "position": "ending",
               "links": [
                 {
-                  "href": "#ca957056-0133-43ea-9abc-fe5fb8168ed9",
+                  "href": "#f6dfb45b-bbd9-4fe3-9021-31338c838e57",
                   "text": "BSI Stand der Technik Kernel, Fassung 2026-08-13",
                   "rel": "reference"
                 },
                 {
-                  "href": "#83cccbe8-8c02-4467-9481-4d060bf5735a",
+                  "href": "#227384ba-ff59-47bf-a781-4a8e3d9253c6",
                   "text": "BSI KomTK Teil 1, 2025",
                   "rel": "reference"
                 },
                 {
-                  "href": "#d24853d2-7c09-42eb-bd7b-e019fe8d4ed5",
+                  "href": "#65fcddb6-bf9a-4e96-8601-cc36e6d962f9",
                   "text": "IEEE 802.11-2024",
                   "rel": "reference"
                 },
                 {
-                  "href": "#5c650e28-ada9-46d7-8c07-7d1b9dc494f0",
+                  "href": "#5bede032-5d47-40e9-8a26-ad1d0530a8cf",
                   "text": "WBA Wi-Fi Security Guidelines, April 2026",
                   "rel": "reference"
                 },
                 {
-                  "href": "#22fa7fab-f474-4b28-965a-5ffce9c21f05",
+                  "href": "#d3802b88-30a6-4fa9-8e00-f7d438f03b15",
                   "text": "Bundesnetzagentur Allgemeinzuteilung 6-GHz-WLAN, Verfügung 76 aus 2025",
                   "rel": "reference"
                 }
@@ -1577,27 +1577,27 @@
               "position": "ending",
               "links": [
                 {
-                  "href": "#ca957056-0133-43ea-9abc-fe5fb8168ed9",
+                  "href": "#f6dfb45b-bbd9-4fe3-9021-31338c838e57",
                   "text": "BSI Stand der Technik Kernel, Fassung 2026-08-13",
                   "rel": "reference"
                 },
                 {
-                  "href": "#83cccbe8-8c02-4467-9481-4d060bf5735a",
+                  "href": "#227384ba-ff59-47bf-a781-4a8e3d9253c6",
                   "text": "BSI KomTK Teil 1, 2025",
                   "rel": "reference"
                 },
                 {
-                  "href": "#d24853d2-7c09-42eb-bd7b-e019fe8d4ed5",
+                  "href": "#65fcddb6-bf9a-4e96-8601-cc36e6d962f9",
                   "text": "IEEE 802.11-2024",
                   "rel": "reference"
                 },
                 {
-                  "href": "#5c650e28-ada9-46d7-8c07-7d1b9dc494f0",
+                  "href": "#5bede032-5d47-40e9-8a26-ad1d0530a8cf",
                   "text": "WBA Wi-Fi Security Guidelines, April 2026",
                   "rel": "reference"
                 },
                 {
-                  "href": "#22fa7fab-f474-4b28-965a-5ffce9c21f05",
+                  "href": "#d3802b88-30a6-4fa9-8e00-f7d438f03b15",
                   "text": "Bundesnetzagentur Allgemeinzuteilung 6-GHz-WLAN, Verfügung 76 aus 2025",
                   "rel": "reference"
                 }
@@ -1663,22 +1663,22 @@
               "position": "ending",
               "links": [
                 {
-                  "href": "#ca957056-0133-43ea-9abc-fe5fb8168ed9",
+                  "href": "#f6dfb45b-bbd9-4fe3-9021-31338c838e57",
                   "text": "BSI Stand der Technik Kernel, Fassung 2026-08-13",
                   "rel": "reference"
                 },
                 {
-                  "href": "#83cccbe8-8c02-4467-9481-4d060bf5735a",
+                  "href": "#227384ba-ff59-47bf-a781-4a8e3d9253c6",
                   "text": "BSI KomTK Teil 1, 2025",
                   "rel": "reference"
                 },
                 {
-                  "href": "#d24853d2-7c09-42eb-bd7b-e019fe8d4ed5",
+                  "href": "#65fcddb6-bf9a-4e96-8601-cc36e6d962f9",
                   "text": "IEEE 802.11-2024",
                   "rel": "reference"
                 },
                 {
-                  "href": "#5c650e28-ada9-46d7-8c07-7d1b9dc494f0",
+                  "href": "#5bede032-5d47-40e9-8a26-ad1d0530a8cf",
                   "text": "WBA Wi-Fi Security Guidelines, April 2026",
                   "rel": "reference"
                 }
@@ -1744,47 +1744,47 @@
               "position": "ending",
               "links": [
                 {
-                  "href": "#ca957056-0133-43ea-9abc-fe5fb8168ed9",
+                  "href": "#f6dfb45b-bbd9-4fe3-9021-31338c838e57",
                   "text": "BSI Stand der Technik Kernel, Fassung 2026-08-13",
                   "rel": "reference"
                 },
                 {
-                  "href": "#83cccbe8-8c02-4467-9481-4d060bf5735a",
+                  "href": "#227384ba-ff59-47bf-a781-4a8e3d9253c6",
                   "text": "BSI KomTK Teil 1, 2025",
                   "rel": "reference"
                 },
                 {
-                  "href": "#d24853d2-7c09-42eb-bd7b-e019fe8d4ed5",
+                  "href": "#65fcddb6-bf9a-4e96-8601-cc36e6d962f9",
                   "text": "IEEE 802.11-2024",
                   "rel": "reference"
                 },
                 {
-                  "href": "#5c650e28-ada9-46d7-8c07-7d1b9dc494f0",
+                  "href": "#5bede032-5d47-40e9-8a26-ad1d0530a8cf",
                   "text": "WBA Wi-Fi Security Guidelines, April 2026",
                   "rel": "reference"
                 },
                 {
-                  "href": "#2dffdbe3-f9d5-4742-b87c-1a4cf254d746",
+                  "href": "#9d2ef76d-d5d8-43c6-9c63-2b1dffdec015",
                   "text": "IEEE 802.1X-2020",
                   "rel": "reference"
                 },
                 {
-                  "href": "#0ad7b57c-e42e-44a3-8415-08de312dcd19",
+                  "href": "#3a111e21-ee25-431e-9b2f-c3c56be13fd9",
                   "text": "RFC 9190 EAP-TLS 1.3",
                   "rel": "reference"
                 },
                 {
-                  "href": "#a7809ebf-2abd-49f9-b6f2-0d234d3b8c91",
+                  "href": "#00c61fa3-bd5a-47f2-9c16-79275db65200",
                   "text": "BSI KomTK Teil 3 Beschaffungsleitfaden, 2025",
                   "rel": "reference"
                 },
                 {
-                  "href": "#cb4c333a-f94f-44a7-b02c-0d2858a75c6a",
+                  "href": "#df49de65-3c6a-43ca-a95b-fbc982edd014",
                   "text": "BSI TR-02102-1, Version 2026-01",
                   "rel": "reference"
                 },
                 {
-                  "href": "#ac462dd1-ce9c-4273-821e-5caa1e5c4531",
+                  "href": "#aa7f17f8-ebee-43eb-a33e-ded73a2a99b9",
                   "text": "CISA und USCG Joint Advisory AA25-212A, 2025",
                   "rel": "reference"
                 }
@@ -1850,47 +1850,47 @@
               "position": "ending",
               "links": [
                 {
-                  "href": "#ca957056-0133-43ea-9abc-fe5fb8168ed9",
+                  "href": "#f6dfb45b-bbd9-4fe3-9021-31338c838e57",
                   "text": "BSI Stand der Technik Kernel, Fassung 2026-08-13",
                   "rel": "reference"
                 },
                 {
-                  "href": "#83cccbe8-8c02-4467-9481-4d060bf5735a",
+                  "href": "#227384ba-ff59-47bf-a781-4a8e3d9253c6",
                   "text": "BSI KomTK Teil 1, 2025",
                   "rel": "reference"
                 },
                 {
-                  "href": "#d24853d2-7c09-42eb-bd7b-e019fe8d4ed5",
+                  "href": "#65fcddb6-bf9a-4e96-8601-cc36e6d962f9",
                   "text": "IEEE 802.11-2024",
                   "rel": "reference"
                 },
                 {
-                  "href": "#5c650e28-ada9-46d7-8c07-7d1b9dc494f0",
+                  "href": "#5bede032-5d47-40e9-8a26-ad1d0530a8cf",
                   "text": "WBA Wi-Fi Security Guidelines, April 2026",
                   "rel": "reference"
                 },
                 {
-                  "href": "#2dffdbe3-f9d5-4742-b87c-1a4cf254d746",
+                  "href": "#9d2ef76d-d5d8-43c6-9c63-2b1dffdec015",
                   "text": "IEEE 802.1X-2020",
                   "rel": "reference"
                 },
                 {
-                  "href": "#0ad7b57c-e42e-44a3-8415-08de312dcd19",
+                  "href": "#3a111e21-ee25-431e-9b2f-c3c56be13fd9",
                   "text": "RFC 9190 EAP-TLS 1.3",
                   "rel": "reference"
                 },
                 {
-                  "href": "#a7809ebf-2abd-49f9-b6f2-0d234d3b8c91",
+                  "href": "#00c61fa3-bd5a-47f2-9c16-79275db65200",
                   "text": "BSI KomTK Teil 3 Beschaffungsleitfaden, 2025",
                   "rel": "reference"
                 },
                 {
-                  "href": "#cb4c333a-f94f-44a7-b02c-0d2858a75c6a",
+                  "href": "#df49de65-3c6a-43ca-a95b-fbc982edd014",
                   "text": "BSI TR-02102-1, Version 2026-01",
                   "rel": "reference"
                 },
                 {
-                  "href": "#ac462dd1-ce9c-4273-821e-5caa1e5c4531",
+                  "href": "#aa7f17f8-ebee-43eb-a33e-ded73a2a99b9",
                   "text": "CISA und USCG Joint Advisory AA25-212A, 2025",
                   "rel": "reference"
                 }
@@ -1956,42 +1956,42 @@
               "position": "ending",
               "links": [
                 {
-                  "href": "#ca957056-0133-43ea-9abc-fe5fb8168ed9",
+                  "href": "#f6dfb45b-bbd9-4fe3-9021-31338c838e57",
                   "text": "BSI Stand der Technik Kernel, Fassung 2026-08-13",
                   "rel": "reference"
                 },
                 {
-                  "href": "#83cccbe8-8c02-4467-9481-4d060bf5735a",
+                  "href": "#227384ba-ff59-47bf-a781-4a8e3d9253c6",
                   "text": "BSI KomTK Teil 1, 2025",
                   "rel": "reference"
                 },
                 {
-                  "href": "#d24853d2-7c09-42eb-bd7b-e019fe8d4ed5",
+                  "href": "#65fcddb6-bf9a-4e96-8601-cc36e6d962f9",
                   "text": "IEEE 802.11-2024",
                   "rel": "reference"
                 },
                 {
-                  "href": "#5c650e28-ada9-46d7-8c07-7d1b9dc494f0",
+                  "href": "#5bede032-5d47-40e9-8a26-ad1d0530a8cf",
                   "text": "WBA Wi-Fi Security Guidelines, April 2026",
                   "rel": "reference"
                 },
                 {
-                  "href": "#2dffdbe3-f9d5-4742-b87c-1a4cf254d746",
+                  "href": "#9d2ef76d-d5d8-43c6-9c63-2b1dffdec015",
                   "text": "IEEE 802.1X-2020",
                   "rel": "reference"
                 },
                 {
-                  "href": "#0ad7b57c-e42e-44a3-8415-08de312dcd19",
+                  "href": "#3a111e21-ee25-431e-9b2f-c3c56be13fd9",
                   "text": "RFC 9190 EAP-TLS 1.3",
                   "rel": "reference"
                 },
                 {
-                  "href": "#a7809ebf-2abd-49f9-b6f2-0d234d3b8c91",
+                  "href": "#00c61fa3-bd5a-47f2-9c16-79275db65200",
                   "text": "BSI KomTK Teil 3 Beschaffungsleitfaden, 2025",
                   "rel": "reference"
                 },
                 {
-                  "href": "#ac462dd1-ce9c-4273-821e-5caa1e5c4531",
+                  "href": "#aa7f17f8-ebee-43eb-a33e-ded73a2a99b9",
                   "text": "CISA und USCG Joint Advisory AA25-212A, 2025",
                   "rel": "reference"
                 }
@@ -2057,37 +2057,37 @@
               "position": "ending",
               "links": [
                 {
-                  "href": "#ca957056-0133-43ea-9abc-fe5fb8168ed9",
+                  "href": "#f6dfb45b-bbd9-4fe3-9021-31338c838e57",
                   "text": "BSI Stand der Technik Kernel, Fassung 2026-08-13",
                   "rel": "reference"
                 },
                 {
-                  "href": "#83cccbe8-8c02-4467-9481-4d060bf5735a",
+                  "href": "#227384ba-ff59-47bf-a781-4a8e3d9253c6",
                   "text": "BSI KomTK Teil 1, 2025",
                   "rel": "reference"
                 },
                 {
-                  "href": "#d24853d2-7c09-42eb-bd7b-e019fe8d4ed5",
+                  "href": "#65fcddb6-bf9a-4e96-8601-cc36e6d962f9",
                   "text": "IEEE 802.11-2024",
                   "rel": "reference"
                 },
                 {
-                  "href": "#5c650e28-ada9-46d7-8c07-7d1b9dc494f0",
+                  "href": "#5bede032-5d47-40e9-8a26-ad1d0530a8cf",
                   "text": "WBA Wi-Fi Security Guidelines, April 2026",
                   "rel": "reference"
                 },
                 {
-                  "href": "#2dffdbe3-f9d5-4742-b87c-1a4cf254d746",
+                  "href": "#9d2ef76d-d5d8-43c6-9c63-2b1dffdec015",
                   "text": "IEEE 802.1X-2020",
                   "rel": "reference"
                 },
                 {
-                  "href": "#0ad7b57c-e42e-44a3-8415-08de312dcd19",
+                  "href": "#3a111e21-ee25-431e-9b2f-c3c56be13fd9",
                   "text": "RFC 9190 EAP-TLS 1.3",
                   "rel": "reference"
                 },
                 {
-                  "href": "#a7809ebf-2abd-49f9-b6f2-0d234d3b8c91",
+                  "href": "#00c61fa3-bd5a-47f2-9c16-79275db65200",
                   "text": "BSI KomTK Teil 3 Beschaffungsleitfaden, 2025",
                   "rel": "reference"
                 }
@@ -2153,22 +2153,22 @@
               "position": "ending",
               "links": [
                 {
-                  "href": "#ca957056-0133-43ea-9abc-fe5fb8168ed9",
+                  "href": "#f6dfb45b-bbd9-4fe3-9021-31338c838e57",
                   "text": "BSI Stand der Technik Kernel, Fassung 2026-08-13",
                   "rel": "reference"
                 },
                 {
-                  "href": "#83cccbe8-8c02-4467-9481-4d060bf5735a",
+                  "href": "#227384ba-ff59-47bf-a781-4a8e3d9253c6",
                   "text": "BSI KomTK Teil 1, 2025",
                   "rel": "reference"
                 },
                 {
-                  "href": "#d24853d2-7c09-42eb-bd7b-e019fe8d4ed5",
+                  "href": "#65fcddb6-bf9a-4e96-8601-cc36e6d962f9",
                   "text": "IEEE 802.11-2024",
                   "rel": "reference"
                 },
                 {
-                  "href": "#5c650e28-ada9-46d7-8c07-7d1b9dc494f0",
+                  "href": "#5bede032-5d47-40e9-8a26-ad1d0530a8cf",
                   "text": "WBA Wi-Fi Security Guidelines, April 2026",
                   "rel": "reference"
                 }
@@ -2234,22 +2234,22 @@
               "position": "ending",
               "links": [
                 {
-                  "href": "#ca957056-0133-43ea-9abc-fe5fb8168ed9",
+                  "href": "#f6dfb45b-bbd9-4fe3-9021-31338c838e57",
                   "text": "BSI Stand der Technik Kernel, Fassung 2026-08-13",
                   "rel": "reference"
                 },
                 {
-                  "href": "#83cccbe8-8c02-4467-9481-4d060bf5735a",
+                  "href": "#227384ba-ff59-47bf-a781-4a8e3d9253c6",
                   "text": "BSI KomTK Teil 1, 2025",
                   "rel": "reference"
                 },
                 {
-                  "href": "#d24853d2-7c09-42eb-bd7b-e019fe8d4ed5",
+                  "href": "#65fcddb6-bf9a-4e96-8601-cc36e6d962f9",
                   "text": "IEEE 802.11-2024",
                   "rel": "reference"
                 },
                 {
-                  "href": "#5c650e28-ada9-46d7-8c07-7d1b9dc494f0",
+                  "href": "#5bede032-5d47-40e9-8a26-ad1d0530a8cf",
                   "text": "WBA Wi-Fi Security Guidelines, April 2026",
                   "rel": "reference"
                 }
@@ -2315,12 +2315,12 @@
               "position": "ending",
               "links": [
                 {
-                  "href": "#ca957056-0133-43ea-9abc-fe5fb8168ed9",
+                  "href": "#f6dfb45b-bbd9-4fe3-9021-31338c838e57",
                   "text": "BSI Stand der Technik Kernel, Fassung 2026-08-13",
                   "rel": "reference"
                 },
                 {
-                  "href": "#83cccbe8-8c02-4467-9481-4d060bf5735a",
+                  "href": "#227384ba-ff59-47bf-a781-4a8e3d9253c6",
                   "text": "BSI KomTK Teil 1, 2025",
                   "rel": "reference"
                 }
@@ -2386,12 +2386,12 @@
               "position": "ending",
               "links": [
                 {
-                  "href": "#ca957056-0133-43ea-9abc-fe5fb8168ed9",
+                  "href": "#f6dfb45b-bbd9-4fe3-9021-31338c838e57",
                   "text": "BSI Stand der Technik Kernel, Fassung 2026-08-13",
                   "rel": "reference"
                 },
                 {
-                  "href": "#83cccbe8-8c02-4467-9481-4d060bf5735a",
+                  "href": "#227384ba-ff59-47bf-a781-4a8e3d9253c6",
                   "text": "BSI KomTK Teil 1, 2025",
                   "rel": "reference"
                 }
@@ -2457,12 +2457,12 @@
               "position": "ending",
               "links": [
                 {
-                  "href": "#ca957056-0133-43ea-9abc-fe5fb8168ed9",
+                  "href": "#f6dfb45b-bbd9-4fe3-9021-31338c838e57",
                   "text": "BSI Stand der Technik Kernel, Fassung 2026-08-13",
                   "rel": "reference"
                 },
                 {
-                  "href": "#83cccbe8-8c02-4467-9481-4d060bf5735a",
+                  "href": "#227384ba-ff59-47bf-a781-4a8e3d9253c6",
                   "text": "BSI KomTK Teil 1, 2025",
                   "rel": "reference"
                 }
@@ -2528,12 +2528,12 @@
               "position": "ending",
               "links": [
                 {
-                  "href": "#ca957056-0133-43ea-9abc-fe5fb8168ed9",
+                  "href": "#f6dfb45b-bbd9-4fe3-9021-31338c838e57",
                   "text": "BSI Stand der Technik Kernel, Fassung 2026-08-13",
                   "rel": "reference"
                 },
                 {
-                  "href": "#83cccbe8-8c02-4467-9481-4d060bf5735a",
+                  "href": "#227384ba-ff59-47bf-a781-4a8e3d9253c6",
                   "text": "BSI KomTK Teil 1, 2025",
                   "rel": "reference"
                 }
@@ -2599,12 +2599,12 @@
               "position": "ending",
               "links": [
                 {
-                  "href": "#ca957056-0133-43ea-9abc-fe5fb8168ed9",
+                  "href": "#f6dfb45b-bbd9-4fe3-9021-31338c838e57",
                   "text": "BSI Stand der Technik Kernel, Fassung 2026-08-13",
                   "rel": "reference"
                 },
                 {
-                  "href": "#83cccbe8-8c02-4467-9481-4d060bf5735a",
+                  "href": "#227384ba-ff59-47bf-a781-4a8e3d9253c6",
                   "text": "BSI KomTK Teil 1, 2025",
                   "rel": "reference"
                 }
@@ -2670,12 +2670,12 @@
               "position": "ending",
               "links": [
                 {
-                  "href": "#ca957056-0133-43ea-9abc-fe5fb8168ed9",
+                  "href": "#f6dfb45b-bbd9-4fe3-9021-31338c838e57",
                   "text": "BSI Stand der Technik Kernel, Fassung 2026-08-13",
                   "rel": "reference"
                 },
                 {
-                  "href": "#83cccbe8-8c02-4467-9481-4d060bf5735a",
+                  "href": "#227384ba-ff59-47bf-a781-4a8e3d9253c6",
                   "text": "BSI KomTK Teil 1, 2025",
                   "rel": "reference"
                 }
@@ -2741,12 +2741,12 @@
               "position": "ending",
               "links": [
                 {
-                  "href": "#ca957056-0133-43ea-9abc-fe5fb8168ed9",
+                  "href": "#f6dfb45b-bbd9-4fe3-9021-31338c838e57",
                   "text": "BSI Stand der Technik Kernel, Fassung 2026-08-13",
                   "rel": "reference"
                 },
                 {
-                  "href": "#83cccbe8-8c02-4467-9481-4d060bf5735a",
+                  "href": "#227384ba-ff59-47bf-a781-4a8e3d9253c6",
                   "text": "BSI KomTK Teil 1, 2025",
                   "rel": "reference"
                 }
@@ -2812,12 +2812,12 @@
               "position": "ending",
               "links": [
                 {
-                  "href": "#ca957056-0133-43ea-9abc-fe5fb8168ed9",
+                  "href": "#f6dfb45b-bbd9-4fe3-9021-31338c838e57",
                   "text": "BSI Stand der Technik Kernel, Fassung 2026-08-13",
                   "rel": "reference"
                 },
                 {
-                  "href": "#83cccbe8-8c02-4467-9481-4d060bf5735a",
+                  "href": "#227384ba-ff59-47bf-a781-4a8e3d9253c6",
                   "text": "BSI KomTK Teil 1, 2025",
                   "rel": "reference"
                 }
@@ -2883,12 +2883,12 @@
               "position": "ending",
               "links": [
                 {
-                  "href": "#ca957056-0133-43ea-9abc-fe5fb8168ed9",
+                  "href": "#f6dfb45b-bbd9-4fe3-9021-31338c838e57",
                   "text": "BSI Stand der Technik Kernel, Fassung 2026-08-13",
                   "rel": "reference"
                 },
                 {
-                  "href": "#83cccbe8-8c02-4467-9481-4d060bf5735a",
+                  "href": "#227384ba-ff59-47bf-a781-4a8e3d9253c6",
                   "text": "BSI KomTK Teil 1, 2025",
                   "rel": "reference"
                 }
@@ -2954,12 +2954,12 @@
               "position": "ending",
               "links": [
                 {
-                  "href": "#ca957056-0133-43ea-9abc-fe5fb8168ed9",
+                  "href": "#f6dfb45b-bbd9-4fe3-9021-31338c838e57",
                   "text": "BSI Stand der Technik Kernel, Fassung 2026-08-13",
                   "rel": "reference"
                 },
                 {
-                  "href": "#83cccbe8-8c02-4467-9481-4d060bf5735a",
+                  "href": "#227384ba-ff59-47bf-a781-4a8e3d9253c6",
                   "text": "BSI KomTK Teil 1, 2025",
                   "rel": "reference"
                 }
@@ -3025,12 +3025,12 @@
               "position": "ending",
               "links": [
                 {
-                  "href": "#ca957056-0133-43ea-9abc-fe5fb8168ed9",
+                  "href": "#f6dfb45b-bbd9-4fe3-9021-31338c838e57",
                   "text": "BSI Stand der Technik Kernel, Fassung 2026-08-13",
                   "rel": "reference"
                 },
                 {
-                  "href": "#83cccbe8-8c02-4467-9481-4d060bf5735a",
+                  "href": "#227384ba-ff59-47bf-a781-4a8e3d9253c6",
                   "text": "BSI KomTK Teil 1, 2025",
                   "rel": "reference"
                 }
@@ -3096,22 +3096,22 @@
               "position": "ending",
               "links": [
                 {
-                  "href": "#ca957056-0133-43ea-9abc-fe5fb8168ed9",
+                  "href": "#f6dfb45b-bbd9-4fe3-9021-31338c838e57",
                   "text": "BSI Stand der Technik Kernel, Fassung 2026-08-13",
                   "rel": "reference"
                 },
                 {
-                  "href": "#2dffdbe3-f9d5-4742-b87c-1a4cf254d746",
+                  "href": "#9d2ef76d-d5d8-43c6-9c63-2b1dffdec015",
                   "text": "IEEE 802.1X-2020",
                   "rel": "reference"
                 },
                 {
-                  "href": "#0ad7b57c-e42e-44a3-8415-08de312dcd19",
+                  "href": "#3a111e21-ee25-431e-9b2f-c3c56be13fd9",
                   "text": "RFC 9190 EAP-TLS 1.3",
                   "rel": "reference"
                 },
                 {
-                  "href": "#a7809ebf-2abd-49f9-b6f2-0d234d3b8c91",
+                  "href": "#00c61fa3-bd5a-47f2-9c16-79275db65200",
                   "text": "BSI KomTK Teil 3 Beschaffungsleitfaden, 2025",
                   "rel": "reference"
                 }
@@ -3177,12 +3177,12 @@
               "position": "ending",
               "links": [
                 {
-                  "href": "#ca957056-0133-43ea-9abc-fe5fb8168ed9",
+                  "href": "#f6dfb45b-bbd9-4fe3-9021-31338c838e57",
                   "text": "BSI Stand der Technik Kernel, Fassung 2026-08-13",
                   "rel": "reference"
                 },
                 {
-                  "href": "#83cccbe8-8c02-4467-9481-4d060bf5735a",
+                  "href": "#227384ba-ff59-47bf-a781-4a8e3d9253c6",
                   "text": "BSI KomTK Teil 1, 2025",
                   "rel": "reference"
                 }
@@ -3248,12 +3248,12 @@
               "position": "ending",
               "links": [
                 {
-                  "href": "#ca957056-0133-43ea-9abc-fe5fb8168ed9",
+                  "href": "#f6dfb45b-bbd9-4fe3-9021-31338c838e57",
                   "text": "BSI Stand der Technik Kernel, Fassung 2026-08-13",
                   "rel": "reference"
                 },
                 {
-                  "href": "#83cccbe8-8c02-4467-9481-4d060bf5735a",
+                  "href": "#227384ba-ff59-47bf-a781-4a8e3d9253c6",
                   "text": "BSI KomTK Teil 1, 2025",
                   "rel": "reference"
                 }
@@ -3319,12 +3319,12 @@
               "position": "ending",
               "links": [
                 {
-                  "href": "#ca957056-0133-43ea-9abc-fe5fb8168ed9",
+                  "href": "#f6dfb45b-bbd9-4fe3-9021-31338c838e57",
                   "text": "BSI Stand der Technik Kernel, Fassung 2026-08-13",
                   "rel": "reference"
                 },
                 {
-                  "href": "#83cccbe8-8c02-4467-9481-4d060bf5735a",
+                  "href": "#227384ba-ff59-47bf-a781-4a8e3d9253c6",
                   "text": "BSI KomTK Teil 1, 2025",
                   "rel": "reference"
                 }
@@ -3390,12 +3390,12 @@
               "position": "ending",
               "links": [
                 {
-                  "href": "#ca957056-0133-43ea-9abc-fe5fb8168ed9",
+                  "href": "#f6dfb45b-bbd9-4fe3-9021-31338c838e57",
                   "text": "BSI Stand der Technik Kernel, Fassung 2026-08-13",
                   "rel": "reference"
                 },
                 {
-                  "href": "#83cccbe8-8c02-4467-9481-4d060bf5735a",
+                  "href": "#227384ba-ff59-47bf-a781-4a8e3d9253c6",
                   "text": "BSI KomTK Teil 1, 2025",
                   "rel": "reference"
                 }
@@ -3461,12 +3461,12 @@
               "position": "ending",
               "links": [
                 {
-                  "href": "#ca957056-0133-43ea-9abc-fe5fb8168ed9",
+                  "href": "#f6dfb45b-bbd9-4fe3-9021-31338c838e57",
                   "text": "BSI Stand der Technik Kernel, Fassung 2026-08-13",
                   "rel": "reference"
                 },
                 {
-                  "href": "#83cccbe8-8c02-4467-9481-4d060bf5735a",
+                  "href": "#227384ba-ff59-47bf-a781-4a8e3d9253c6",
                   "text": "BSI KomTK Teil 1, 2025",
                   "rel": "reference"
                 }
@@ -3532,27 +3532,27 @@
               "position": "ending",
               "links": [
                 {
-                  "href": "#ca957056-0133-43ea-9abc-fe5fb8168ed9",
+                  "href": "#f6dfb45b-bbd9-4fe3-9021-31338c838e57",
                   "text": "BSI Stand der Technik Kernel, Fassung 2026-08-13",
                   "rel": "reference"
                 },
                 {
-                  "href": "#83cccbe8-8c02-4467-9481-4d060bf5735a",
+                  "href": "#227384ba-ff59-47bf-a781-4a8e3d9253c6",
                   "text": "BSI KomTK Teil 1, 2025",
                   "rel": "reference"
                 },
                 {
-                  "href": "#d24853d2-7c09-42eb-bd7b-e019fe8d4ed5",
+                  "href": "#65fcddb6-bf9a-4e96-8601-cc36e6d962f9",
                   "text": "IEEE 802.11-2024",
                   "rel": "reference"
                 },
                 {
-                  "href": "#5c650e28-ada9-46d7-8c07-7d1b9dc494f0",
+                  "href": "#5bede032-5d47-40e9-8a26-ad1d0530a8cf",
                   "text": "WBA Wi-Fi Security Guidelines, April 2026",
                   "rel": "reference"
                 },
                 {
-                  "href": "#ac462dd1-ce9c-4273-821e-5caa1e5c4531",
+                  "href": "#aa7f17f8-ebee-43eb-a33e-ded73a2a99b9",
                   "text": "CISA und USCG Joint Advisory AA25-212A, 2025",
                   "rel": "reference"
                 }
@@ -3618,12 +3618,12 @@
               "position": "ending",
               "links": [
                 {
-                  "href": "#ca957056-0133-43ea-9abc-fe5fb8168ed9",
+                  "href": "#f6dfb45b-bbd9-4fe3-9021-31338c838e57",
                   "text": "BSI Stand der Technik Kernel, Fassung 2026-08-13",
                   "rel": "reference"
                 },
                 {
-                  "href": "#83cccbe8-8c02-4467-9481-4d060bf5735a",
+                  "href": "#227384ba-ff59-47bf-a781-4a8e3d9253c6",
                   "text": "BSI KomTK Teil 1, 2025",
                   "rel": "reference"
                 }
@@ -3689,12 +3689,12 @@
               "position": "ending",
               "links": [
                 {
-                  "href": "#ca957056-0133-43ea-9abc-fe5fb8168ed9",
+                  "href": "#f6dfb45b-bbd9-4fe3-9021-31338c838e57",
                   "text": "BSI Stand der Technik Kernel, Fassung 2026-08-13",
                   "rel": "reference"
                 },
                 {
-                  "href": "#83cccbe8-8c02-4467-9481-4d060bf5735a",
+                  "href": "#227384ba-ff59-47bf-a781-4a8e3d9253c6",
                   "text": "BSI KomTK Teil 1, 2025",
                   "rel": "reference"
                 }
@@ -3760,17 +3760,17 @@
               "position": "ending",
               "links": [
                 {
-                  "href": "#ca957056-0133-43ea-9abc-fe5fb8168ed9",
+                  "href": "#f6dfb45b-bbd9-4fe3-9021-31338c838e57",
                   "text": "BSI Stand der Technik Kernel, Fassung 2026-08-13",
                   "rel": "reference"
                 },
                 {
-                  "href": "#d24853d2-7c09-42eb-bd7b-e019fe8d4ed5",
+                  "href": "#65fcddb6-bf9a-4e96-8601-cc36e6d962f9",
                   "text": "IEEE 802.11-2024",
                   "rel": "reference"
                 },
                 {
-                  "href": "#5c650e28-ada9-46d7-8c07-7d1b9dc494f0",
+                  "href": "#5bede032-5d47-40e9-8a26-ad1d0530a8cf",
                   "text": "WBA Wi-Fi Security Guidelines, April 2026",
                   "rel": "reference"
                 }
@@ -3836,17 +3836,17 @@
               "position": "ending",
               "links": [
                 {
-                  "href": "#ca957056-0133-43ea-9abc-fe5fb8168ed9",
+                  "href": "#f6dfb45b-bbd9-4fe3-9021-31338c838e57",
                   "text": "BSI Stand der Technik Kernel, Fassung 2026-08-13",
                   "rel": "reference"
                 },
                 {
-                  "href": "#d24853d2-7c09-42eb-bd7b-e019fe8d4ed5",
+                  "href": "#65fcddb6-bf9a-4e96-8601-cc36e6d962f9",
                   "text": "IEEE 802.11-2024",
                   "rel": "reference"
                 },
                 {
-                  "href": "#5c650e28-ada9-46d7-8c07-7d1b9dc494f0",
+                  "href": "#5bede032-5d47-40e9-8a26-ad1d0530a8cf",
                   "text": "WBA Wi-Fi Security Guidelines, April 2026",
                   "rel": "reference"
                 }
@@ -3912,17 +3912,17 @@
               "position": "ending",
               "links": [
                 {
-                  "href": "#ca957056-0133-43ea-9abc-fe5fb8168ed9",
+                  "href": "#f6dfb45b-bbd9-4fe3-9021-31338c838e57",
                   "text": "BSI Stand der Technik Kernel, Fassung 2026-08-13",
                   "rel": "reference"
                 },
                 {
-                  "href": "#d24853d2-7c09-42eb-bd7b-e019fe8d4ed5",
+                  "href": "#65fcddb6-bf9a-4e96-8601-cc36e6d962f9",
                   "text": "IEEE 802.11-2024",
                   "rel": "reference"
                 },
                 {
-                  "href": "#5c650e28-ada9-46d7-8c07-7d1b9dc494f0",
+                  "href": "#5bede032-5d47-40e9-8a26-ad1d0530a8cf",
                   "text": "WBA Wi-Fi Security Guidelines, April 2026",
                   "rel": "reference"
                 }
@@ -3935,7 +3935,7 @@
     "back-matter": {
       "resources": [
         {
-          "uuid": "ca957056-0133-43ea-9abc-fe5fb8168ed9",
+          "uuid": "f6dfb45b-bbd9-4fe3-9021-31338c838e57",
           "title": "BSI Stand der Technik Kernel, Fassung 2026-08-13",
           "rlinks": [
             {
@@ -3950,7 +3950,7 @@
           ]
         },
         {
-          "uuid": "d24853d2-7c09-42eb-bd7b-e019fe8d4ed5",
+          "uuid": "65fcddb6-bf9a-4e96-8601-cc36e6d962f9",
           "title": "IEEE 802.11-2024",
           "rlinks": [
             {
@@ -3965,7 +3965,7 @@
           ]
         },
         {
-          "uuid": "2dffdbe3-f9d5-4742-b87c-1a4cf254d746",
+          "uuid": "9d2ef76d-d5d8-43c6-9c63-2b1dffdec015",
           "title": "IEEE 802.1X-2020",
           "rlinks": [
             {
@@ -3980,7 +3980,7 @@
           ]
         },
         {
-          "uuid": "0ad7b57c-e42e-44a3-8415-08de312dcd19",
+          "uuid": "3a111e21-ee25-431e-9b2f-c3c56be13fd9",
           "title": "RFC 9190 EAP-TLS 1.3",
           "rlinks": [
             {
@@ -3995,7 +3995,7 @@
           ]
         },
         {
-          "uuid": "83cccbe8-8c02-4467-9481-4d060bf5735a",
+          "uuid": "227384ba-ff59-47bf-a781-4a8e3d9253c6",
           "title": "BSI KomTK Teil 1, 2025",
           "rlinks": [
             {
@@ -4010,7 +4010,7 @@
           ]
         },
         {
-          "uuid": "a7809ebf-2abd-49f9-b6f2-0d234d3b8c91",
+          "uuid": "00c61fa3-bd5a-47f2-9c16-79275db65200",
           "title": "BSI KomTK Teil 3 Beschaffungsleitfaden, 2025",
           "rlinks": [
             {
@@ -4025,7 +4025,7 @@
           ]
         },
         {
-          "uuid": "5c650e28-ada9-46d7-8c07-7d1b9dc494f0",
+          "uuid": "5bede032-5d47-40e9-8a26-ad1d0530a8cf",
           "title": "WBA Wi-Fi Security Guidelines, April 2026",
           "rlinks": [
             {
@@ -4040,7 +4040,7 @@
           ]
         },
         {
-          "uuid": "22fa7fab-f474-4b28-965a-5ffce9c21f05",
+          "uuid": "d3802b88-30a6-4fa9-8e00-f7d438f03b15",
           "title": "Bundesnetzagentur Allgemeinzuteilung 6-GHz-WLAN, Verfügung 76 aus 2025",
           "rlinks": [
             {
@@ -4055,7 +4055,7 @@
           ]
         },
         {
-          "uuid": "cb4c333a-f94f-44a7-b02c-0d2858a75c6a",
+          "uuid": "df49de65-3c6a-43ca-a95b-fbc982edd014",
           "title": "BSI TR-02102-1, Version 2026-01",
           "rlinks": [
             {
@@ -4070,7 +4070,7 @@
           ]
         },
         {
-          "uuid": "ac462dd1-ce9c-4273-821e-5caa1e5c4531",
+          "uuid": "aa7f17f8-ebee-43eb-a33e-ded73a2a99b9",
           "title": "CISA und USCG Joint Advisory AA25-212A, 2025",
           "rlinks": [
             {
@@ -4085,14 +4085,14 @@
           ]
         },
         {
-          "uuid": "f472e97c-8b0c-415c-b5ee-04ac02d19d13",
+          "uuid": "3945e483-9425-480d-a774-14d164e15768",
           "rlinks": [
             {
               "href": "../../../Grundschutz++/sources/catalogs/Kernel/BSI-Stand-der-Technik-Kernel-G0-catalog.json",
               "hashes": [
                 {
                   "algorithm": "MD5",
-                  "value": "448136a694b7aabd515a767c3bc6dcba"
+                  "value": "90024b4344bb1bf6d034c22720d94b77"
                 }
               ]
             }
